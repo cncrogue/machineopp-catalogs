@@ -15,6 +15,30 @@
       "file": "starter_drills_taps.json",
       "version": 1,
       "tool_count": 32
+    },
+    {
+      "name": "MA Ford 305 Series Micro Drills",
+      "category": "manufacturer",
+      "description": "Solid carbide micro drills, ALtima Micro coated, #80 through 1/8\"",
+      "file": "ma_ford_305_drills.json",
+      "version": 1,
+      "tool_count": 58
+    },
+    {
+      "name": "MA Ford 177 Series End Mills",
+      "category": "manufacturer",
+      "description": "4-flute solid carbide end mills, ALtima coated, 1/16\" through 1/4\"",
+      "file": "ma_ford_177_end_mills.json",
+      "version": 1,
+      "tool_count": 29
+    },
+    {
+      "name": "MA Ford 278 Series End Mills",
+      "category": "manufacturer",
+      "description": "4-flute solid carbide end mills, ALtima Blaze coated, 1/4\" through 3/4\"",
+      "file": "ma_ford_278_end_mills.json",
+      "version": 1,
+      "tool_count": 83
     }
   ]
 }
