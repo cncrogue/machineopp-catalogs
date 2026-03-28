@@ -9,14 +9,51 @@
       "num_flutes": 2,
       "flute_length": 0.19,
       "overall_length": 1.5,
-      "coating": "ALtima\u00ae Micro",
+      "coating": "ALtima® Micro",
       "substrate": "Carbide",
       "shank_type": "Straight",
       "part_number": "30501350AM",
       "edp": "34148",
       "tool_cost": 0,
       "parts_per_tool": 200,
-      "speeds": []
+      "speeds": [
+        {
+          "material": "P",
+          "sfm_low": 270,
+          "sfm_high": 270,
+          "feed_per_tooth": 0.0004
+        },
+        {
+          "material": "H",
+          "sfm_low": 60,
+          "sfm_high": 60,
+          "feed_per_tooth": 0.0002
+        },
+        {
+          "material": "M",
+          "sfm_low": 240,
+          "sfm_high": 240,
+          "feed_per_tooth": 0.0004
+        },
+        {
+          "material": "N",
+          "sfm_low": 450,
+          "sfm_high": 450,
+          "feed_per_tooth": 0.0005
+        },
+        {
+          "material": "K",
+          "sfm_low": 480,
+          "sfm_high": 480,
+          "feed_per_tooth": 0.0004
+        },
+        {
+          "material": "S",
+          "sfm_low": 70,
+          "sfm_high": 70,
+          "feed_per_tooth": 0.0004
+        }
+      ]
     },
     {
       "tool_type": "Drill",
@@ -25,14 +62,51 @@
       "num_flutes": 2,
       "flute_length": 0.19,
       "overall_length": 1.5,
-      "coating": "ALtima\u00ae Micro",
+      "coating": "ALtima® Micro",
       "substrate": "Carbide",
       "shank_type": "Straight",
       "part_number": "30501450AM",
       "edp": "34149",
       "tool_cost": 0,
       "parts_per_tool": 200,
-      "speeds": []
+      "speeds": [
+        {
+          "material": "P",
+          "sfm_low": 270,
+          "sfm_high": 270,
+          "feed_per_tooth": 0.0004
+        },
+        {
+          "material": "H",
+          "sfm_low": 60,
+          "sfm_high": 60,
+          "feed_per_tooth": 0.0002
+        },
+        {
+          "material": "M",
+          "sfm_low": 240,
+          "sfm_high": 240,
+          "feed_per_tooth": 0.0004
+        },
+        {
+          "material": "N",
+          "sfm_low": 450,
+          "sfm_high": 450,
+          "feed_per_tooth": 0.0005
+        },
+        {
+          "material": "K",
+          "sfm_low": 480,
+          "sfm_high": 480,
+          "feed_per_tooth": 0.0004
+        },
+        {
+          "material": "S",
+          "sfm_low": 70,
+          "sfm_high": 70,
+          "feed_per_tooth": 0.0004
+        }
+      ]
     },
     {
       "tool_type": "Drill",
@@ -41,14 +115,51 @@
       "num_flutes": 2,
       "flute_length": 0.19,
       "overall_length": 1.5,
-      "coating": "ALtima\u00ae Micro",
+      "coating": "ALtima® Micro",
       "substrate": "Carbide",
       "shank_type": "Straight",
       "part_number": "30501560AM",
       "edp": "34150",
       "tool_cost": 0,
       "parts_per_tool": 200,
-      "speeds": []
+      "speeds": [
+        {
+          "material": "P",
+          "sfm_low": 270,
+          "sfm_high": 270,
+          "feed_per_tooth": 0.0004
+        },
+        {
+          "material": "H",
+          "sfm_low": 60,
+          "sfm_high": 60,
+          "feed_per_tooth": 0.0002
+        },
+        {
+          "material": "M",
+          "sfm_low": 240,
+          "sfm_high": 240,
+          "feed_per_tooth": 0.0004
+        },
+        {
+          "material": "N",
+          "sfm_low": 450,
+          "sfm_high": 450,
+          "feed_per_tooth": 0.0005
+        },
+        {
+          "material": "K",
+          "sfm_low": 480,
+          "sfm_high": 480,
+          "feed_per_tooth": 0.0004
+        },
+        {
+          "material": "S",
+          "sfm_low": 70,
+          "sfm_high": 70,
+          "feed_per_tooth": 0.0004
+        }
+      ]
     },
     {
       "tool_type": "Drill",
@@ -57,14 +168,51 @@
       "num_flutes": 2,
       "flute_length": 0.19,
       "overall_length": 1.5,
-      "coating": "ALtima\u00ae Micro",
+      "coating": "ALtima® Micro",
       "substrate": "Carbide",
       "shank_type": "Straight",
       "part_number": "30501600AM",
       "edp": "34151",
       "tool_cost": 0,
       "parts_per_tool": 200,
-      "speeds": []
+      "speeds": [
+        {
+          "material": "P",
+          "sfm_low": 270,
+          "sfm_high": 270,
+          "feed_per_tooth": 0.0004
+        },
+        {
+          "material": "H",
+          "sfm_low": 60,
+          "sfm_high": 60,
+          "feed_per_tooth": 0.0002
+        },
+        {
+          "material": "M",
+          "sfm_low": 240,
+          "sfm_high": 240,
+          "feed_per_tooth": 0.0004
+        },
+        {
+          "material": "N",
+          "sfm_low": 450,
+          "sfm_high": 450,
+          "feed_per_tooth": 0.0005
+        },
+        {
+          "material": "K",
+          "sfm_low": 480,
+          "sfm_high": 480,
+          "feed_per_tooth": 0.0004
+        },
+        {
+          "material": "S",
+          "sfm_low": 70,
+          "sfm_high": 70,
+          "feed_per_tooth": 0.0004
+        }
+      ]
     },
     {
       "tool_type": "Drill",
@@ -73,14 +221,51 @@
       "num_flutes": 2,
       "flute_length": 0.25,
       "overall_length": 1.5,
-      "coating": "ALtima\u00ae Micro",
+      "coating": "ALtima® Micro",
       "substrate": "Carbide",
       "shank_type": "Straight",
       "part_number": "30501800AM",
       "edp": "34152",
       "tool_cost": 0,
       "parts_per_tool": 200,
-      "speeds": []
+      "speeds": [
+        {
+          "material": "P",
+          "sfm_low": 270,
+          "sfm_high": 270,
+          "feed_per_tooth": 0.0004
+        },
+        {
+          "material": "H",
+          "sfm_low": 60,
+          "sfm_high": 60,
+          "feed_per_tooth": 0.0002
+        },
+        {
+          "material": "M",
+          "sfm_low": 240,
+          "sfm_high": 240,
+          "feed_per_tooth": 0.0004
+        },
+        {
+          "material": "N",
+          "sfm_low": 450,
+          "sfm_high": 450,
+          "feed_per_tooth": 0.0005
+        },
+        {
+          "material": "K",
+          "sfm_low": 480,
+          "sfm_high": 480,
+          "feed_per_tooth": 0.0004
+        },
+        {
+          "material": "S",
+          "sfm_low": 70,
+          "sfm_high": 70,
+          "feed_per_tooth": 0.0004
+        }
+      ]
     },
     {
       "tool_type": "Drill",
@@ -89,14 +274,51 @@
       "num_flutes": 2,
       "flute_length": 0.25,
       "overall_length": 1.5,
-      "coating": "ALtima\u00ae Micro",
+      "coating": "ALtima® Micro",
       "substrate": "Carbide",
       "shank_type": "Straight",
       "part_number": "30502000AM",
       "edp": "34153",
       "tool_cost": 0,
       "parts_per_tool": 200,
-      "speeds": []
+      "speeds": [
+        {
+          "material": "P",
+          "sfm_low": 270,
+          "sfm_high": 270,
+          "feed_per_tooth": 0.0004
+        },
+        {
+          "material": "H",
+          "sfm_low": 60,
+          "sfm_high": 60,
+          "feed_per_tooth": 0.0002
+        },
+        {
+          "material": "M",
+          "sfm_low": 240,
+          "sfm_high": 240,
+          "feed_per_tooth": 0.0004
+        },
+        {
+          "material": "N",
+          "sfm_low": 450,
+          "sfm_high": 450,
+          "feed_per_tooth": 0.0005
+        },
+        {
+          "material": "K",
+          "sfm_low": 480,
+          "sfm_high": 480,
+          "feed_per_tooth": 0.0004
+        },
+        {
+          "material": "S",
+          "sfm_low": 70,
+          "sfm_high": 70,
+          "feed_per_tooth": 0.0004
+        }
+      ]
     },
     {
       "tool_type": "Drill",
@@ -105,14 +327,51 @@
       "num_flutes": 2,
       "flute_length": 0.25,
       "overall_length": 1.5,
-      "coating": "ALtima\u00ae Micro",
+      "coating": "ALtima® Micro",
       "substrate": "Carbide",
       "shank_type": "Straight",
       "part_number": "30502100AM",
       "edp": "34154",
       "tool_cost": 0,
       "parts_per_tool": 200,
-      "speeds": []
+      "speeds": [
+        {
+          "material": "P",
+          "sfm_low": 270,
+          "sfm_high": 270,
+          "feed_per_tooth": 0.0004
+        },
+        {
+          "material": "H",
+          "sfm_low": 60,
+          "sfm_high": 60,
+          "feed_per_tooth": 0.0002
+        },
+        {
+          "material": "M",
+          "sfm_low": 240,
+          "sfm_high": 240,
+          "feed_per_tooth": 0.0004
+        },
+        {
+          "material": "N",
+          "sfm_low": 450,
+          "sfm_high": 450,
+          "feed_per_tooth": 0.0005
+        },
+        {
+          "material": "K",
+          "sfm_low": 480,
+          "sfm_high": 480,
+          "feed_per_tooth": 0.0004
+        },
+        {
+          "material": "S",
+          "sfm_low": 70,
+          "sfm_high": 70,
+          "feed_per_tooth": 0.0004
+        }
+      ]
     },
     {
       "tool_type": "Drill",
@@ -121,14 +380,51 @@
       "num_flutes": 2,
       "flute_length": 0.25,
       "overall_length": 1.5,
-      "coating": "ALtima\u00ae Micro",
+      "coating": "ALtima® Micro",
       "substrate": "Carbide",
       "shank_type": "Straight",
       "part_number": "30502250AM",
       "edp": "34155",
       "tool_cost": 0,
       "parts_per_tool": 200,
-      "speeds": []
+      "speeds": [
+        {
+          "material": "P",
+          "sfm_low": 270,
+          "sfm_high": 270,
+          "feed_per_tooth": 0.0004
+        },
+        {
+          "material": "H",
+          "sfm_low": 60,
+          "sfm_high": 60,
+          "feed_per_tooth": 0.0002
+        },
+        {
+          "material": "M",
+          "sfm_low": 240,
+          "sfm_high": 240,
+          "feed_per_tooth": 0.0004
+        },
+        {
+          "material": "N",
+          "sfm_low": 450,
+          "sfm_high": 450,
+          "feed_per_tooth": 0.0005
+        },
+        {
+          "material": "K",
+          "sfm_low": 480,
+          "sfm_high": 480,
+          "feed_per_tooth": 0.0004
+        },
+        {
+          "material": "S",
+          "sfm_low": 70,
+          "sfm_high": 70,
+          "feed_per_tooth": 0.0004
+        }
+      ]
     },
     {
       "tool_type": "Drill",
@@ -137,14 +433,51 @@
       "num_flutes": 2,
       "flute_length": 0.25,
       "overall_length": 1.5,
-      "coating": "ALtima\u00ae Micro",
+      "coating": "ALtima® Micro",
       "substrate": "Carbide",
       "shank_type": "Straight",
       "part_number": "30502400AM",
       "edp": "34156",
       "tool_cost": 0,
       "parts_per_tool": 200,
-      "speeds": []
+      "speeds": [
+        {
+          "material": "P",
+          "sfm_low": 270,
+          "sfm_high": 270,
+          "feed_per_tooth": 0.0004
+        },
+        {
+          "material": "H",
+          "sfm_low": 60,
+          "sfm_high": 60,
+          "feed_per_tooth": 0.0002
+        },
+        {
+          "material": "M",
+          "sfm_low": 240,
+          "sfm_high": 240,
+          "feed_per_tooth": 0.0004
+        },
+        {
+          "material": "N",
+          "sfm_low": 450,
+          "sfm_high": 450,
+          "feed_per_tooth": 0.0005
+        },
+        {
+          "material": "K",
+          "sfm_low": 480,
+          "sfm_high": 480,
+          "feed_per_tooth": 0.0004
+        },
+        {
+          "material": "S",
+          "sfm_low": 70,
+          "sfm_high": 70,
+          "feed_per_tooth": 0.0004
+        }
+      ]
     },
     {
       "tool_type": "Drill",
@@ -153,14 +486,51 @@
       "num_flutes": 2,
       "flute_length": 0.25,
       "overall_length": 1.5,
-      "coating": "ALtima\u00ae Micro",
+      "coating": "ALtima® Micro",
       "substrate": "Carbide",
       "shank_type": "Straight",
       "part_number": "30502500AM",
       "edp": "34157",
       "tool_cost": 0,
       "parts_per_tool": 200,
-      "speeds": []
+      "speeds": [
+        {
+          "material": "P",
+          "sfm_low": 270,
+          "sfm_high": 270,
+          "feed_per_tooth": 0.0004
+        },
+        {
+          "material": "H",
+          "sfm_low": 60,
+          "sfm_high": 60,
+          "feed_per_tooth": 0.0002
+        },
+        {
+          "material": "M",
+          "sfm_low": 240,
+          "sfm_high": 240,
+          "feed_per_tooth": 0.0004
+        },
+        {
+          "material": "N",
+          "sfm_low": 450,
+          "sfm_high": 450,
+          "feed_per_tooth": 0.0005
+        },
+        {
+          "material": "K",
+          "sfm_low": 480,
+          "sfm_high": 480,
+          "feed_per_tooth": 0.0004
+        },
+        {
+          "material": "S",
+          "sfm_low": 70,
+          "sfm_high": 70,
+          "feed_per_tooth": 0.0004
+        }
+      ]
     },
     {
       "tool_type": "Drill",
@@ -169,14 +539,51 @@
       "num_flutes": 2,
       "flute_length": 0.25,
       "overall_length": 1.5,
-      "coating": "ALtima\u00ae Micro",
+      "coating": "ALtima® Micro",
       "substrate": "Carbide",
       "shank_type": "Straight",
       "part_number": "30502600AM",
       "edp": "34158",
       "tool_cost": 0,
       "parts_per_tool": 200,
-      "speeds": []
+      "speeds": [
+        {
+          "material": "P",
+          "sfm_low": 270,
+          "sfm_high": 270,
+          "feed_per_tooth": 0.0004
+        },
+        {
+          "material": "H",
+          "sfm_low": 60,
+          "sfm_high": 60,
+          "feed_per_tooth": 0.0002
+        },
+        {
+          "material": "M",
+          "sfm_low": 240,
+          "sfm_high": 240,
+          "feed_per_tooth": 0.0004
+        },
+        {
+          "material": "N",
+          "sfm_low": 450,
+          "sfm_high": 450,
+          "feed_per_tooth": 0.0005
+        },
+        {
+          "material": "K",
+          "sfm_low": 480,
+          "sfm_high": 480,
+          "feed_per_tooth": 0.0004
+        },
+        {
+          "material": "S",
+          "sfm_low": 70,
+          "sfm_high": 70,
+          "feed_per_tooth": 0.0004
+        }
+      ]
     },
     {
       "tool_type": "Drill",
@@ -185,14 +592,51 @@
       "num_flutes": 2,
       "flute_length": 0.32,
       "overall_length": 1.5,
-      "coating": "ALtima\u00ae Micro",
+      "coating": "ALtima® Micro",
       "substrate": "Carbide",
       "shank_type": "Straight",
       "part_number": "30502800AM",
       "edp": "34159",
       "tool_cost": 0,
       "parts_per_tool": 200,
-      "speeds": []
+      "speeds": [
+        {
+          "material": "P",
+          "sfm_low": 270,
+          "sfm_high": 270,
+          "feed_per_tooth": 0.0004
+        },
+        {
+          "material": "H",
+          "sfm_low": 60,
+          "sfm_high": 60,
+          "feed_per_tooth": 0.0002
+        },
+        {
+          "material": "M",
+          "sfm_low": 240,
+          "sfm_high": 240,
+          "feed_per_tooth": 0.0004
+        },
+        {
+          "material": "N",
+          "sfm_low": 450,
+          "sfm_high": 450,
+          "feed_per_tooth": 0.0005
+        },
+        {
+          "material": "K",
+          "sfm_low": 480,
+          "sfm_high": 480,
+          "feed_per_tooth": 0.0004
+        },
+        {
+          "material": "S",
+          "sfm_low": 70,
+          "sfm_high": 70,
+          "feed_per_tooth": 0.0004
+        }
+      ]
     },
     {
       "tool_type": "Drill",
@@ -201,14 +645,51 @@
       "num_flutes": 2,
       "flute_length": 0.32,
       "overall_length": 1.5,
-      "coating": "ALtima\u00ae Micro",
+      "coating": "ALtima® Micro",
       "substrate": "Carbide",
       "shank_type": "Straight",
       "part_number": "30502920AM",
       "edp": "34160",
       "tool_cost": 0,
       "parts_per_tool": 200,
-      "speeds": []
+      "speeds": [
+        {
+          "material": "P",
+          "sfm_low": 270,
+          "sfm_high": 270,
+          "feed_per_tooth": 0.0004
+        },
+        {
+          "material": "H",
+          "sfm_low": 60,
+          "sfm_high": 60,
+          "feed_per_tooth": 0.0002
+        },
+        {
+          "material": "M",
+          "sfm_low": 240,
+          "sfm_high": 240,
+          "feed_per_tooth": 0.0004
+        },
+        {
+          "material": "N",
+          "sfm_low": 450,
+          "sfm_high": 450,
+          "feed_per_tooth": 0.0005
+        },
+        {
+          "material": "K",
+          "sfm_low": 480,
+          "sfm_high": 480,
+          "feed_per_tooth": 0.0004
+        },
+        {
+          "material": "S",
+          "sfm_low": 70,
+          "sfm_high": 70,
+          "feed_per_tooth": 0.0004
+        }
+      ]
     },
     {
       "tool_type": "Drill",
@@ -217,14 +698,51 @@
       "num_flutes": 2,
       "flute_length": 0.4,
       "overall_length": 1.5,
-      "coating": "ALtima\u00ae Micro",
+      "coating": "ALtima® Micro",
       "substrate": "Carbide",
       "shank_type": "Straight",
       "part_number": "30503100AM",
       "edp": "34161",
       "tool_cost": 0,
       "parts_per_tool": 200,
-      "speeds": []
+      "speeds": [
+        {
+          "material": "P",
+          "sfm_low": 270,
+          "sfm_high": 270,
+          "feed_per_tooth": 0.0004
+        },
+        {
+          "material": "H",
+          "sfm_low": 60,
+          "sfm_high": 60,
+          "feed_per_tooth": 0.0002
+        },
+        {
+          "material": "M",
+          "sfm_low": 240,
+          "sfm_high": 240,
+          "feed_per_tooth": 0.0004
+        },
+        {
+          "material": "N",
+          "sfm_low": 450,
+          "sfm_high": 450,
+          "feed_per_tooth": 0.0005
+        },
+        {
+          "material": "K",
+          "sfm_low": 480,
+          "sfm_high": 480,
+          "feed_per_tooth": 0.0004
+        },
+        {
+          "material": "S",
+          "sfm_low": 70,
+          "sfm_high": 70,
+          "feed_per_tooth": 0.0004
+        }
+      ]
     },
     {
       "tool_type": "Drill",
@@ -233,14 +751,51 @@
       "num_flutes": 2,
       "flute_length": 0.4,
       "overall_length": 1.5,
-      "coating": "ALtima\u00ae Micro",
+      "coating": "ALtima® Micro",
       "substrate": "Carbide",
       "shank_type": "Straight",
       "part_number": "30503120AM",
       "edp": "34162",
       "tool_cost": 0,
       "parts_per_tool": 200,
-      "speeds": []
+      "speeds": [
+        {
+          "material": "P",
+          "sfm_low": 270,
+          "sfm_high": 270,
+          "feed_per_tooth": 0.0008
+        },
+        {
+          "material": "H",
+          "sfm_low": 60,
+          "sfm_high": 60,
+          "feed_per_tooth": 0.0004
+        },
+        {
+          "material": "M",
+          "sfm_low": 240,
+          "sfm_high": 240,
+          "feed_per_tooth": 0.0008
+        },
+        {
+          "material": "N",
+          "sfm_low": 450,
+          "sfm_high": 450,
+          "feed_per_tooth": 0.001
+        },
+        {
+          "material": "K",
+          "sfm_low": 480,
+          "sfm_high": 480,
+          "feed_per_tooth": 0.0008
+        },
+        {
+          "material": "S",
+          "sfm_low": 70,
+          "sfm_high": 70,
+          "feed_per_tooth": 0.0008
+        }
+      ]
     },
     {
       "tool_type": "Drill",
@@ -249,14 +804,51 @@
       "num_flutes": 2,
       "flute_length": 0.4,
       "overall_length": 1.5,
-      "coating": "ALtima\u00ae Micro",
+      "coating": "ALtima® Micro",
       "substrate": "Carbide",
       "shank_type": "Straight",
       "part_number": "30503200AM",
       "edp": "34163",
       "tool_cost": 0,
       "parts_per_tool": 200,
-      "speeds": []
+      "speeds": [
+        {
+          "material": "P",
+          "sfm_low": 270,
+          "sfm_high": 270,
+          "feed_per_tooth": 0.0008
+        },
+        {
+          "material": "H",
+          "sfm_low": 60,
+          "sfm_high": 60,
+          "feed_per_tooth": 0.0004
+        },
+        {
+          "material": "M",
+          "sfm_low": 240,
+          "sfm_high": 240,
+          "feed_per_tooth": 0.0008
+        },
+        {
+          "material": "N",
+          "sfm_low": 450,
+          "sfm_high": 450,
+          "feed_per_tooth": 0.001
+        },
+        {
+          "material": "K",
+          "sfm_low": 480,
+          "sfm_high": 480,
+          "feed_per_tooth": 0.0008
+        },
+        {
+          "material": "S",
+          "sfm_low": 70,
+          "sfm_high": 70,
+          "feed_per_tooth": 0.0008
+        }
+      ]
     },
     {
       "tool_type": "Drill",
@@ -265,14 +857,51 @@
       "num_flutes": 2,
       "flute_length": 0.4,
       "overall_length": 1.5,
-      "coating": "ALtima\u00ae Micro",
+      "coating": "ALtima® Micro",
       "substrate": "Carbide",
       "shank_type": "Straight",
       "part_number": "30503300AM",
       "edp": "34164",
       "tool_cost": 0,
       "parts_per_tool": 200,
-      "speeds": []
+      "speeds": [
+        {
+          "material": "P",
+          "sfm_low": 270,
+          "sfm_high": 270,
+          "feed_per_tooth": 0.0008
+        },
+        {
+          "material": "H",
+          "sfm_low": 60,
+          "sfm_high": 60,
+          "feed_per_tooth": 0.0004
+        },
+        {
+          "material": "M",
+          "sfm_low": 240,
+          "sfm_high": 240,
+          "feed_per_tooth": 0.0008
+        },
+        {
+          "material": "N",
+          "sfm_low": 450,
+          "sfm_high": 450,
+          "feed_per_tooth": 0.001
+        },
+        {
+          "material": "K",
+          "sfm_low": 480,
+          "sfm_high": 480,
+          "feed_per_tooth": 0.0008
+        },
+        {
+          "material": "S",
+          "sfm_low": 70,
+          "sfm_high": 70,
+          "feed_per_tooth": 0.0008
+        }
+      ]
     },
     {
       "tool_type": "Drill",
@@ -281,14 +910,51 @@
       "num_flutes": 2,
       "flute_length": 0.4,
       "overall_length": 1.5,
-      "coating": "ALtima\u00ae Micro",
+      "coating": "ALtima® Micro",
       "substrate": "Carbide",
       "shank_type": "Straight",
       "part_number": "30503500AM",
       "edp": "34165",
       "tool_cost": 0,
       "parts_per_tool": 200,
-      "speeds": []
+      "speeds": [
+        {
+          "material": "P",
+          "sfm_low": 270,
+          "sfm_high": 270,
+          "feed_per_tooth": 0.0008
+        },
+        {
+          "material": "H",
+          "sfm_low": 60,
+          "sfm_high": 60,
+          "feed_per_tooth": 0.0004
+        },
+        {
+          "material": "M",
+          "sfm_low": 240,
+          "sfm_high": 240,
+          "feed_per_tooth": 0.0008
+        },
+        {
+          "material": "N",
+          "sfm_low": 450,
+          "sfm_high": 450,
+          "feed_per_tooth": 0.001
+        },
+        {
+          "material": "K",
+          "sfm_low": 480,
+          "sfm_high": 480,
+          "feed_per_tooth": 0.0008
+        },
+        {
+          "material": "S",
+          "sfm_low": 70,
+          "sfm_high": 70,
+          "feed_per_tooth": 0.0008
+        }
+      ]
     },
     {
       "tool_type": "Drill",
@@ -297,14 +963,51 @@
       "num_flutes": 2,
       "flute_length": 0.4,
       "overall_length": 1.5,
-      "coating": "ALtima\u00ae Micro",
+      "coating": "ALtima® Micro",
       "substrate": "Carbide",
       "shank_type": "Straight",
       "part_number": "30503600AM",
       "edp": "34166",
       "tool_cost": 0,
       "parts_per_tool": 200,
-      "speeds": []
+      "speeds": [
+        {
+          "material": "P",
+          "sfm_low": 270,
+          "sfm_high": 270,
+          "feed_per_tooth": 0.0008
+        },
+        {
+          "material": "H",
+          "sfm_low": 60,
+          "sfm_high": 60,
+          "feed_per_tooth": 0.0004
+        },
+        {
+          "material": "M",
+          "sfm_low": 240,
+          "sfm_high": 240,
+          "feed_per_tooth": 0.0008
+        },
+        {
+          "material": "N",
+          "sfm_low": 450,
+          "sfm_high": 450,
+          "feed_per_tooth": 0.001
+        },
+        {
+          "material": "K",
+          "sfm_low": 480,
+          "sfm_high": 480,
+          "feed_per_tooth": 0.0008
+        },
+        {
+          "material": "S",
+          "sfm_low": 70,
+          "sfm_high": 70,
+          "feed_per_tooth": 0.0008
+        }
+      ]
     },
     {
       "tool_type": "Drill",
@@ -313,14 +1016,51 @@
       "num_flutes": 2,
       "flute_length": 0.4,
       "overall_length": 1.5,
-      "coating": "ALtima\u00ae Micro",
+      "coating": "ALtima® Micro",
       "substrate": "Carbide",
       "shank_type": "Straight",
       "part_number": "30503700AM",
       "edp": "34167",
       "tool_cost": 0,
       "parts_per_tool": 200,
-      "speeds": []
+      "speeds": [
+        {
+          "material": "P",
+          "sfm_low": 270,
+          "sfm_high": 270,
+          "feed_per_tooth": 0.0008
+        },
+        {
+          "material": "H",
+          "sfm_low": 60,
+          "sfm_high": 60,
+          "feed_per_tooth": 0.0004
+        },
+        {
+          "material": "M",
+          "sfm_low": 240,
+          "sfm_high": 240,
+          "feed_per_tooth": 0.0008
+        },
+        {
+          "material": "N",
+          "sfm_low": 450,
+          "sfm_high": 450,
+          "feed_per_tooth": 0.001
+        },
+        {
+          "material": "K",
+          "sfm_low": 480,
+          "sfm_high": 480,
+          "feed_per_tooth": 0.0008
+        },
+        {
+          "material": "S",
+          "sfm_low": 70,
+          "sfm_high": 70,
+          "feed_per_tooth": 0.0008
+        }
+      ]
     },
     {
       "tool_type": "Drill",
@@ -329,14 +1069,51 @@
       "num_flutes": 2,
       "flute_length": 0.4,
       "overall_length": 1.5,
-      "coating": "ALtima\u00ae Micro",
+      "coating": "ALtima® Micro",
       "substrate": "Carbide",
       "shank_type": "Straight",
       "part_number": "30503800AM",
       "edp": "34168",
       "tool_cost": 0,
       "parts_per_tool": 200,
-      "speeds": []
+      "speeds": [
+        {
+          "material": "P",
+          "sfm_low": 270,
+          "sfm_high": 270,
+          "feed_per_tooth": 0.0008
+        },
+        {
+          "material": "H",
+          "sfm_low": 60,
+          "sfm_high": 60,
+          "feed_per_tooth": 0.0004
+        },
+        {
+          "material": "M",
+          "sfm_low": 240,
+          "sfm_high": 240,
+          "feed_per_tooth": 0.0008
+        },
+        {
+          "material": "N",
+          "sfm_low": 450,
+          "sfm_high": 450,
+          "feed_per_tooth": 0.001
+        },
+        {
+          "material": "K",
+          "sfm_low": 480,
+          "sfm_high": 480,
+          "feed_per_tooth": 0.0008
+        },
+        {
+          "material": "S",
+          "sfm_low": 70,
+          "sfm_high": 70,
+          "feed_per_tooth": 0.0008
+        }
+      ]
     },
     {
       "tool_type": "Drill",
@@ -345,14 +1122,51 @@
       "num_flutes": 2,
       "flute_length": 0.4,
       "overall_length": 1.5,
-      "coating": "ALtima\u00ae Micro",
+      "coating": "ALtima® Micro",
       "substrate": "Carbide",
       "shank_type": "Straight",
       "part_number": "30503900AM",
       "edp": "34169",
       "tool_cost": 0,
       "parts_per_tool": 200,
-      "speeds": []
+      "speeds": [
+        {
+          "material": "P",
+          "sfm_low": 270,
+          "sfm_high": 270,
+          "feed_per_tooth": 0.0008
+        },
+        {
+          "material": "H",
+          "sfm_low": 60,
+          "sfm_high": 60,
+          "feed_per_tooth": 0.0004
+        },
+        {
+          "material": "M",
+          "sfm_low": 240,
+          "sfm_high": 240,
+          "feed_per_tooth": 0.0008
+        },
+        {
+          "material": "N",
+          "sfm_low": 450,
+          "sfm_high": 450,
+          "feed_per_tooth": 0.001
+        },
+        {
+          "material": "K",
+          "sfm_low": 480,
+          "sfm_high": 480,
+          "feed_per_tooth": 0.0008
+        },
+        {
+          "material": "S",
+          "sfm_low": 70,
+          "sfm_high": 70,
+          "feed_per_tooth": 0.0008
+        }
+      ]
     },
     {
       "tool_type": "Drill",
@@ -361,14 +1175,51 @@
       "num_flutes": 2,
       "flute_length": 0.4,
       "overall_length": 1.5,
-      "coating": "ALtima\u00ae Micro",
+      "coating": "ALtima® Micro",
       "substrate": "Carbide",
       "shank_type": "Straight",
       "part_number": "30504000AM",
       "edp": "34170",
       "tool_cost": 0,
       "parts_per_tool": 200,
-      "speeds": []
+      "speeds": [
+        {
+          "material": "P",
+          "sfm_low": 270,
+          "sfm_high": 270,
+          "feed_per_tooth": 0.0008
+        },
+        {
+          "material": "H",
+          "sfm_low": 60,
+          "sfm_high": 60,
+          "feed_per_tooth": 0.0004
+        },
+        {
+          "material": "M",
+          "sfm_low": 240,
+          "sfm_high": 240,
+          "feed_per_tooth": 0.0008
+        },
+        {
+          "material": "N",
+          "sfm_low": 450,
+          "sfm_high": 450,
+          "feed_per_tooth": 0.001
+        },
+        {
+          "material": "K",
+          "sfm_low": 480,
+          "sfm_high": 480,
+          "feed_per_tooth": 0.0008
+        },
+        {
+          "material": "S",
+          "sfm_low": 70,
+          "sfm_high": 70,
+          "feed_per_tooth": 0.0008
+        }
+      ]
     },
     {
       "tool_type": "Drill",
@@ -377,14 +1228,51 @@
       "num_flutes": 2,
       "flute_length": 0.4,
       "overall_length": 1.5,
-      "coating": "ALtima\u00ae Micro",
+      "coating": "ALtima® Micro",
       "substrate": "Carbide",
       "shank_type": "Straight",
       "part_number": "30504100AM",
       "edp": "34171",
       "tool_cost": 0,
       "parts_per_tool": 200,
-      "speeds": []
+      "speeds": [
+        {
+          "material": "P",
+          "sfm_low": 270,
+          "sfm_high": 270,
+          "feed_per_tooth": 0.0008
+        },
+        {
+          "material": "H",
+          "sfm_low": 60,
+          "sfm_high": 60,
+          "feed_per_tooth": 0.0004
+        },
+        {
+          "material": "M",
+          "sfm_low": 240,
+          "sfm_high": 240,
+          "feed_per_tooth": 0.0008
+        },
+        {
+          "material": "N",
+          "sfm_low": 450,
+          "sfm_high": 450,
+          "feed_per_tooth": 0.001
+        },
+        {
+          "material": "K",
+          "sfm_low": 480,
+          "sfm_high": 480,
+          "feed_per_tooth": 0.0008
+        },
+        {
+          "material": "S",
+          "sfm_low": 70,
+          "sfm_high": 70,
+          "feed_per_tooth": 0.0008
+        }
+      ]
     },
     {
       "tool_type": "Drill",
@@ -393,14 +1281,51 @@
       "num_flutes": 2,
       "flute_length": 0.4,
       "overall_length": 1.5,
-      "coating": "ALtima\u00ae Micro",
+      "coating": "ALtima® Micro",
       "substrate": "Carbide",
       "shank_type": "Straight",
       "part_number": "30504200AM",
       "edp": "34172",
       "tool_cost": 0,
       "parts_per_tool": 200,
-      "speeds": []
+      "speeds": [
+        {
+          "material": "P",
+          "sfm_low": 270,
+          "sfm_high": 270,
+          "feed_per_tooth": 0.0008
+        },
+        {
+          "material": "H",
+          "sfm_low": 60,
+          "sfm_high": 60,
+          "feed_per_tooth": 0.0004
+        },
+        {
+          "material": "M",
+          "sfm_low": 240,
+          "sfm_high": 240,
+          "feed_per_tooth": 0.0008
+        },
+        {
+          "material": "N",
+          "sfm_low": 450,
+          "sfm_high": 450,
+          "feed_per_tooth": 0.001
+        },
+        {
+          "material": "K",
+          "sfm_low": 480,
+          "sfm_high": 480,
+          "feed_per_tooth": 0.0008
+        },
+        {
+          "material": "S",
+          "sfm_low": 70,
+          "sfm_high": 70,
+          "feed_per_tooth": 0.0008
+        }
+      ]
     },
     {
       "tool_type": "Drill",
@@ -409,14 +1334,51 @@
       "num_flutes": 2,
       "flute_length": 0.4,
       "overall_length": 1.5,
-      "coating": "ALtima\u00ae Micro",
+      "coating": "ALtima® Micro",
       "substrate": "Carbide",
       "shank_type": "Straight",
       "part_number": "30504300AM",
       "edp": "34173",
       "tool_cost": 0,
       "parts_per_tool": 200,
-      "speeds": []
+      "speeds": [
+        {
+          "material": "P",
+          "sfm_low": 270,
+          "sfm_high": 270,
+          "feed_per_tooth": 0.0008
+        },
+        {
+          "material": "H",
+          "sfm_low": 60,
+          "sfm_high": 60,
+          "feed_per_tooth": 0.0004
+        },
+        {
+          "material": "M",
+          "sfm_low": 240,
+          "sfm_high": 240,
+          "feed_per_tooth": 0.0008
+        },
+        {
+          "material": "N",
+          "sfm_low": 450,
+          "sfm_high": 450,
+          "feed_per_tooth": 0.001
+        },
+        {
+          "material": "K",
+          "sfm_low": 480,
+          "sfm_high": 480,
+          "feed_per_tooth": 0.0008
+        },
+        {
+          "material": "S",
+          "sfm_low": 70,
+          "sfm_high": 70,
+          "feed_per_tooth": 0.0008
+        }
+      ]
     },
     {
       "tool_type": "Drill",
@@ -425,14 +1387,51 @@
       "num_flutes": 2,
       "flute_length": 0.4,
       "overall_length": 1.5,
-      "coating": "ALtima\u00ae Micro",
+      "coating": "ALtima® Micro",
       "substrate": "Carbide",
       "shank_type": "Straight",
       "part_number": "30504650AM",
       "edp": "34174",
       "tool_cost": 0,
       "parts_per_tool": 200,
-      "speeds": []
+      "speeds": [
+        {
+          "material": "P",
+          "sfm_low": 270,
+          "sfm_high": 270,
+          "feed_per_tooth": 0.0008
+        },
+        {
+          "material": "H",
+          "sfm_low": 60,
+          "sfm_high": 60,
+          "feed_per_tooth": 0.0004
+        },
+        {
+          "material": "M",
+          "sfm_low": 240,
+          "sfm_high": 240,
+          "feed_per_tooth": 0.0008
+        },
+        {
+          "material": "N",
+          "sfm_low": 450,
+          "sfm_high": 450,
+          "feed_per_tooth": 0.001
+        },
+        {
+          "material": "K",
+          "sfm_low": 480,
+          "sfm_high": 480,
+          "feed_per_tooth": 0.0008
+        },
+        {
+          "material": "S",
+          "sfm_low": 70,
+          "sfm_high": 70,
+          "feed_per_tooth": 0.0008
+        }
+      ]
     },
     {
       "tool_type": "Drill",
@@ -441,14 +1440,51 @@
       "num_flutes": 2,
       "flute_length": 0.4,
       "overall_length": 1.5,
-      "coating": "ALtima\u00ae Micro",
+      "coating": "ALtima® Micro",
       "substrate": "Carbide",
       "shank_type": "Straight",
       "part_number": "30504690AM",
       "edp": "34175",
       "tool_cost": 0,
       "parts_per_tool": 200,
-      "speeds": []
+      "speeds": [
+        {
+          "material": "P",
+          "sfm_low": 270,
+          "sfm_high": 270,
+          "feed_per_tooth": 0.0008
+        },
+        {
+          "material": "H",
+          "sfm_low": 60,
+          "sfm_high": 60,
+          "feed_per_tooth": 0.0004
+        },
+        {
+          "material": "M",
+          "sfm_low": 240,
+          "sfm_high": 240,
+          "feed_per_tooth": 0.0008
+        },
+        {
+          "material": "N",
+          "sfm_low": 450,
+          "sfm_high": 450,
+          "feed_per_tooth": 0.001
+        },
+        {
+          "material": "K",
+          "sfm_low": 480,
+          "sfm_high": 480,
+          "feed_per_tooth": 0.0008
+        },
+        {
+          "material": "S",
+          "sfm_low": 70,
+          "sfm_high": 70,
+          "feed_per_tooth": 0.0008
+        }
+      ]
     },
     {
       "tool_type": "Drill",
@@ -457,14 +1493,51 @@
       "num_flutes": 2,
       "flute_length": 0.4,
       "overall_length": 1.5,
-      "coating": "ALtima\u00ae Micro",
+      "coating": "ALtima® Micro",
       "substrate": "Carbide",
       "shank_type": "Straight",
       "part_number": "30505200AM",
       "edp": "34176",
       "tool_cost": 0,
       "parts_per_tool": 200,
-      "speeds": []
+      "speeds": [
+        {
+          "material": "P",
+          "sfm_low": 270,
+          "sfm_high": 270,
+          "feed_per_tooth": 0.0008
+        },
+        {
+          "material": "H",
+          "sfm_low": 60,
+          "sfm_high": 60,
+          "feed_per_tooth": 0.0004
+        },
+        {
+          "material": "M",
+          "sfm_low": 240,
+          "sfm_high": 240,
+          "feed_per_tooth": 0.0008
+        },
+        {
+          "material": "N",
+          "sfm_low": 450,
+          "sfm_high": 450,
+          "feed_per_tooth": 0.001
+        },
+        {
+          "material": "K",
+          "sfm_low": 480,
+          "sfm_high": 480,
+          "feed_per_tooth": 0.0008
+        },
+        {
+          "material": "S",
+          "sfm_low": 70,
+          "sfm_high": 70,
+          "feed_per_tooth": 0.0008
+        }
+      ]
     },
     {
       "tool_type": "Drill",
@@ -473,14 +1546,51 @@
       "num_flutes": 2,
       "flute_length": 0.4,
       "overall_length": 1.5,
-      "coating": "ALtima\u00ae Micro",
+      "coating": "ALtima® Micro",
       "substrate": "Carbide",
       "shank_type": "Straight",
       "part_number": "30505500AM",
       "edp": "34177",
       "tool_cost": 0,
       "parts_per_tool": 200,
-      "speeds": []
+      "speeds": [
+        {
+          "material": "P",
+          "sfm_low": 270,
+          "sfm_high": 270,
+          "feed_per_tooth": 0.0008
+        },
+        {
+          "material": "H",
+          "sfm_low": 60,
+          "sfm_high": 60,
+          "feed_per_tooth": 0.0004
+        },
+        {
+          "material": "M",
+          "sfm_low": 240,
+          "sfm_high": 240,
+          "feed_per_tooth": 0.0008
+        },
+        {
+          "material": "N",
+          "sfm_low": 450,
+          "sfm_high": 450,
+          "feed_per_tooth": 0.001
+        },
+        {
+          "material": "K",
+          "sfm_low": 480,
+          "sfm_high": 480,
+          "feed_per_tooth": 0.0008
+        },
+        {
+          "material": "S",
+          "sfm_low": 70,
+          "sfm_high": 70,
+          "feed_per_tooth": 0.0008
+        }
+      ]
     },
     {
       "tool_type": "Drill",
@@ -489,14 +1599,51 @@
       "num_flutes": 2,
       "flute_length": 0.4,
       "overall_length": 1.5,
-      "coating": "ALtima\u00ae Micro",
+      "coating": "ALtima® Micro",
       "substrate": "Carbide",
       "shank_type": "Straight",
       "part_number": "30505950AM",
       "edp": "34178",
       "tool_cost": 0,
       "parts_per_tool": 200,
-      "speeds": []
+      "speeds": [
+        {
+          "material": "P",
+          "sfm_low": 270,
+          "sfm_high": 270,
+          "feed_per_tooth": 0.0008
+        },
+        {
+          "material": "H",
+          "sfm_low": 60,
+          "sfm_high": 60,
+          "feed_per_tooth": 0.0004
+        },
+        {
+          "material": "M",
+          "sfm_low": 240,
+          "sfm_high": 240,
+          "feed_per_tooth": 0.0008
+        },
+        {
+          "material": "N",
+          "sfm_low": 450,
+          "sfm_high": 450,
+          "feed_per_tooth": 0.001
+        },
+        {
+          "material": "K",
+          "sfm_low": 480,
+          "sfm_high": 480,
+          "feed_per_tooth": 0.0008
+        },
+        {
+          "material": "S",
+          "sfm_low": 70,
+          "sfm_high": 70,
+          "feed_per_tooth": 0.0008
+        }
+      ]
     },
     {
       "tool_type": "Drill",
@@ -505,14 +1652,51 @@
       "num_flutes": 2,
       "flute_length": 0.48,
       "overall_length": 1.5,
-      "coating": "ALtima\u00ae Micro",
+      "coating": "ALtima® Micro",
       "substrate": "Carbide",
       "shank_type": "Straight",
       "part_number": "30506250AM",
       "edp": "34179",
       "tool_cost": 0,
       "parts_per_tool": 200,
-      "speeds": []
+      "speeds": [
+        {
+          "material": "P",
+          "sfm_low": 270,
+          "sfm_high": 270,
+          "feed_per_tooth": 0.0015
+        },
+        {
+          "material": "H",
+          "sfm_low": 60,
+          "sfm_high": 60,
+          "feed_per_tooth": 0.0007
+        },
+        {
+          "material": "M",
+          "sfm_low": 240,
+          "sfm_high": 240,
+          "feed_per_tooth": 0.0015
+        },
+        {
+          "material": "N",
+          "sfm_low": 450,
+          "sfm_high": 450,
+          "feed_per_tooth": 0.002
+        },
+        {
+          "material": "K",
+          "sfm_low": 480,
+          "sfm_high": 480,
+          "feed_per_tooth": 0.0015
+        },
+        {
+          "material": "S",
+          "sfm_low": 70,
+          "sfm_high": 70,
+          "feed_per_tooth": 0.0015
+        }
+      ]
     },
     {
       "tool_type": "Drill",
@@ -521,14 +1705,51 @@
       "num_flutes": 2,
       "flute_length": 0.48,
       "overall_length": 1.5,
-      "coating": "ALtima\u00ae Micro",
+      "coating": "ALtima® Micro",
       "substrate": "Carbide",
       "shank_type": "Straight",
       "part_number": "30506350AM",
       "edp": "34180",
       "tool_cost": 0,
       "parts_per_tool": 200,
-      "speeds": []
+      "speeds": [
+        {
+          "material": "P",
+          "sfm_low": 270,
+          "sfm_high": 270,
+          "feed_per_tooth": 0.0015
+        },
+        {
+          "material": "H",
+          "sfm_low": 60,
+          "sfm_high": 60,
+          "feed_per_tooth": 0.0007
+        },
+        {
+          "material": "M",
+          "sfm_low": 240,
+          "sfm_high": 240,
+          "feed_per_tooth": 0.0015
+        },
+        {
+          "material": "N",
+          "sfm_low": 450,
+          "sfm_high": 450,
+          "feed_per_tooth": 0.002
+        },
+        {
+          "material": "K",
+          "sfm_low": 480,
+          "sfm_high": 480,
+          "feed_per_tooth": 0.0015
+        },
+        {
+          "material": "S",
+          "sfm_low": 70,
+          "sfm_high": 70,
+          "feed_per_tooth": 0.0015
+        }
+      ]
     },
     {
       "tool_type": "Drill",
@@ -537,14 +1758,51 @@
       "num_flutes": 2,
       "flute_length": 0.48,
       "overall_length": 1.5,
-      "coating": "ALtima\u00ae Micro",
+      "coating": "ALtima® Micro",
       "substrate": "Carbide",
       "shank_type": "Straight",
       "part_number": "30506700AM",
       "edp": "34181",
       "tool_cost": 0,
       "parts_per_tool": 200,
-      "speeds": []
+      "speeds": [
+        {
+          "material": "P",
+          "sfm_low": 270,
+          "sfm_high": 270,
+          "feed_per_tooth": 0.0015
+        },
+        {
+          "material": "H",
+          "sfm_low": 60,
+          "sfm_high": 60,
+          "feed_per_tooth": 0.0007
+        },
+        {
+          "material": "M",
+          "sfm_low": 240,
+          "sfm_high": 240,
+          "feed_per_tooth": 0.0015
+        },
+        {
+          "material": "N",
+          "sfm_low": 450,
+          "sfm_high": 450,
+          "feed_per_tooth": 0.002
+        },
+        {
+          "material": "K",
+          "sfm_low": 480,
+          "sfm_high": 480,
+          "feed_per_tooth": 0.0015
+        },
+        {
+          "material": "S",
+          "sfm_low": 70,
+          "sfm_high": 70,
+          "feed_per_tooth": 0.0015
+        }
+      ]
     },
     {
       "tool_type": "Drill",
@@ -553,14 +1811,51 @@
       "num_flutes": 2,
       "flute_length": 0.48,
       "overall_length": 1.5,
-      "coating": "ALtima\u00ae Micro",
+      "coating": "ALtima® Micro",
       "substrate": "Carbide",
       "shank_type": "Straight",
       "part_number": "30507000AM",
       "edp": "34182",
       "tool_cost": 0,
       "parts_per_tool": 200,
-      "speeds": []
+      "speeds": [
+        {
+          "material": "P",
+          "sfm_low": 270,
+          "sfm_high": 270,
+          "feed_per_tooth": 0.0015
+        },
+        {
+          "material": "H",
+          "sfm_low": 60,
+          "sfm_high": 60,
+          "feed_per_tooth": 0.0007
+        },
+        {
+          "material": "M",
+          "sfm_low": 240,
+          "sfm_high": 240,
+          "feed_per_tooth": 0.0015
+        },
+        {
+          "material": "N",
+          "sfm_low": 450,
+          "sfm_high": 450,
+          "feed_per_tooth": 0.002
+        },
+        {
+          "material": "K",
+          "sfm_low": 480,
+          "sfm_high": 480,
+          "feed_per_tooth": 0.0015
+        },
+        {
+          "material": "S",
+          "sfm_low": 70,
+          "sfm_high": 70,
+          "feed_per_tooth": 0.0015
+        }
+      ]
     },
     {
       "tool_type": "Drill",
@@ -569,14 +1864,51 @@
       "num_flutes": 2,
       "flute_length": 0.48,
       "overall_length": 1.5,
-      "coating": "ALtima\u00ae Micro",
+      "coating": "ALtima® Micro",
       "substrate": "Carbide",
       "shank_type": "Straight",
       "part_number": "30507300AM",
       "edp": "34183",
       "tool_cost": 0,
       "parts_per_tool": 200,
-      "speeds": []
+      "speeds": [
+        {
+          "material": "P",
+          "sfm_low": 270,
+          "sfm_high": 270,
+          "feed_per_tooth": 0.0015
+        },
+        {
+          "material": "H",
+          "sfm_low": 60,
+          "sfm_high": 60,
+          "feed_per_tooth": 0.0007
+        },
+        {
+          "material": "M",
+          "sfm_low": 240,
+          "sfm_high": 240,
+          "feed_per_tooth": 0.0015
+        },
+        {
+          "material": "N",
+          "sfm_low": 450,
+          "sfm_high": 450,
+          "feed_per_tooth": 0.002
+        },
+        {
+          "material": "K",
+          "sfm_low": 480,
+          "sfm_high": 480,
+          "feed_per_tooth": 0.0015
+        },
+        {
+          "material": "S",
+          "sfm_low": 70,
+          "sfm_high": 70,
+          "feed_per_tooth": 0.0015
+        }
+      ]
     },
     {
       "tool_type": "Drill",
@@ -585,14 +1917,51 @@
       "num_flutes": 2,
       "flute_length": 0.48,
       "overall_length": 1.5,
-      "coating": "ALtima\u00ae Micro",
+      "coating": "ALtima® Micro",
       "substrate": "Carbide",
       "shank_type": "Straight",
       "part_number": "30507600AM",
       "edp": "34184",
       "tool_cost": 0,
       "parts_per_tool": 200,
-      "speeds": []
+      "speeds": [
+        {
+          "material": "P",
+          "sfm_low": 270,
+          "sfm_high": 270,
+          "feed_per_tooth": 0.0015
+        },
+        {
+          "material": "H",
+          "sfm_low": 60,
+          "sfm_high": 60,
+          "feed_per_tooth": 0.0007
+        },
+        {
+          "material": "M",
+          "sfm_low": 240,
+          "sfm_high": 240,
+          "feed_per_tooth": 0.0015
+        },
+        {
+          "material": "N",
+          "sfm_low": 450,
+          "sfm_high": 450,
+          "feed_per_tooth": 0.002
+        },
+        {
+          "material": "K",
+          "sfm_low": 480,
+          "sfm_high": 480,
+          "feed_per_tooth": 0.0015
+        },
+        {
+          "material": "S",
+          "sfm_low": 70,
+          "sfm_high": 70,
+          "feed_per_tooth": 0.0015
+        }
+      ]
     },
     {
       "tool_type": "Drill",
@@ -601,14 +1970,51 @@
       "num_flutes": 2,
       "flute_length": 0.48,
       "overall_length": 1.5,
-      "coating": "ALtima\u00ae Micro",
+      "coating": "ALtima® Micro",
       "substrate": "Carbide",
       "shank_type": "Straight",
       "part_number": "30507810AM",
       "edp": "34185",
       "tool_cost": 0,
       "parts_per_tool": 200,
-      "speeds": []
+      "speeds": [
+        {
+          "material": "P",
+          "sfm_low": 270,
+          "sfm_high": 270,
+          "feed_per_tooth": 0.0015
+        },
+        {
+          "material": "H",
+          "sfm_low": 60,
+          "sfm_high": 60,
+          "feed_per_tooth": 0.0007
+        },
+        {
+          "material": "M",
+          "sfm_low": 240,
+          "sfm_high": 240,
+          "feed_per_tooth": 0.0015
+        },
+        {
+          "material": "N",
+          "sfm_low": 450,
+          "sfm_high": 450,
+          "feed_per_tooth": 0.002
+        },
+        {
+          "material": "K",
+          "sfm_low": 480,
+          "sfm_high": 480,
+          "feed_per_tooth": 0.0015
+        },
+        {
+          "material": "S",
+          "sfm_low": 70,
+          "sfm_high": 70,
+          "feed_per_tooth": 0.0015
+        }
+      ]
     },
     {
       "tool_type": "Drill",
@@ -617,14 +2023,51 @@
       "num_flutes": 2,
       "flute_length": 0.48,
       "overall_length": 1.5,
-      "coating": "ALtima\u00ae Micro",
+      "coating": "ALtima® Micro",
       "substrate": "Carbide",
       "shank_type": "Straight",
       "part_number": "30507850AM",
       "edp": "34186",
       "tool_cost": 0,
       "parts_per_tool": 200,
-      "speeds": []
+      "speeds": [
+        {
+          "material": "P",
+          "sfm_low": 270,
+          "sfm_high": 270,
+          "feed_per_tooth": 0.0015
+        },
+        {
+          "material": "H",
+          "sfm_low": 60,
+          "sfm_high": 60,
+          "feed_per_tooth": 0.0007
+        },
+        {
+          "material": "M",
+          "sfm_low": 240,
+          "sfm_high": 240,
+          "feed_per_tooth": 0.0015
+        },
+        {
+          "material": "N",
+          "sfm_low": 450,
+          "sfm_high": 450,
+          "feed_per_tooth": 0.002
+        },
+        {
+          "material": "K",
+          "sfm_low": 480,
+          "sfm_high": 480,
+          "feed_per_tooth": 0.0015
+        },
+        {
+          "material": "S",
+          "sfm_low": 70,
+          "sfm_high": 70,
+          "feed_per_tooth": 0.0015
+        }
+      ]
     },
     {
       "tool_type": "Drill",
@@ -633,14 +2076,51 @@
       "num_flutes": 2,
       "flute_length": 0.48,
       "overall_length": 1.5,
-      "coating": "ALtima\u00ae Micro",
+      "coating": "ALtima® Micro",
       "substrate": "Carbide",
       "shank_type": "Straight",
       "part_number": "30508100AM",
       "edp": "34187",
       "tool_cost": 0,
       "parts_per_tool": 200,
-      "speeds": []
+      "speeds": [
+        {
+          "material": "P",
+          "sfm_low": 270,
+          "sfm_high": 270,
+          "feed_per_tooth": 0.0015
+        },
+        {
+          "material": "H",
+          "sfm_low": 60,
+          "sfm_high": 60,
+          "feed_per_tooth": 0.0007
+        },
+        {
+          "material": "M",
+          "sfm_low": 240,
+          "sfm_high": 240,
+          "feed_per_tooth": 0.0015
+        },
+        {
+          "material": "N",
+          "sfm_low": 450,
+          "sfm_high": 450,
+          "feed_per_tooth": 0.002
+        },
+        {
+          "material": "K",
+          "sfm_low": 480,
+          "sfm_high": 480,
+          "feed_per_tooth": 0.0015
+        },
+        {
+          "material": "S",
+          "sfm_low": 70,
+          "sfm_high": 70,
+          "feed_per_tooth": 0.0015
+        }
+      ]
     },
     {
       "tool_type": "Drill",
@@ -649,14 +2129,51 @@
       "num_flutes": 2,
       "flute_length": 0.48,
       "overall_length": 1.5,
-      "coating": "ALtima\u00ae Micro",
+      "coating": "ALtima® Micro",
       "substrate": "Carbide",
       "shank_type": "Straight",
       "part_number": "30508200AM",
       "edp": "34188",
       "tool_cost": 0,
       "parts_per_tool": 200,
-      "speeds": []
+      "speeds": [
+        {
+          "material": "P",
+          "sfm_low": 270,
+          "sfm_high": 270,
+          "feed_per_tooth": 0.0015
+        },
+        {
+          "material": "H",
+          "sfm_low": 60,
+          "sfm_high": 60,
+          "feed_per_tooth": 0.0007
+        },
+        {
+          "material": "M",
+          "sfm_low": 240,
+          "sfm_high": 240,
+          "feed_per_tooth": 0.0015
+        },
+        {
+          "material": "N",
+          "sfm_low": 450,
+          "sfm_high": 450,
+          "feed_per_tooth": 0.002
+        },
+        {
+          "material": "K",
+          "sfm_low": 480,
+          "sfm_high": 480,
+          "feed_per_tooth": 0.0015
+        },
+        {
+          "material": "S",
+          "sfm_low": 70,
+          "sfm_high": 70,
+          "feed_per_tooth": 0.0015
+        }
+      ]
     },
     {
       "tool_type": "Drill",
@@ -665,14 +2182,51 @@
       "num_flutes": 2,
       "flute_length": 0.48,
       "overall_length": 1.5,
-      "coating": "ALtima\u00ae Micro",
+      "coating": "ALtima® Micro",
       "substrate": "Carbide",
       "shank_type": "Straight",
       "part_number": "30508600AM",
       "edp": "34189",
       "tool_cost": 0,
       "parts_per_tool": 200,
-      "speeds": []
+      "speeds": [
+        {
+          "material": "P",
+          "sfm_low": 270,
+          "sfm_high": 270,
+          "feed_per_tooth": 0.0015
+        },
+        {
+          "material": "H",
+          "sfm_low": 60,
+          "sfm_high": 60,
+          "feed_per_tooth": 0.0007
+        },
+        {
+          "material": "M",
+          "sfm_low": 240,
+          "sfm_high": 240,
+          "feed_per_tooth": 0.0015
+        },
+        {
+          "material": "N",
+          "sfm_low": 450,
+          "sfm_high": 450,
+          "feed_per_tooth": 0.002
+        },
+        {
+          "material": "K",
+          "sfm_low": 480,
+          "sfm_high": 480,
+          "feed_per_tooth": 0.0015
+        },
+        {
+          "material": "S",
+          "sfm_low": 70,
+          "sfm_high": 70,
+          "feed_per_tooth": 0.0015
+        }
+      ]
     },
     {
       "tool_type": "Drill",
@@ -681,14 +2235,51 @@
       "num_flutes": 2,
       "flute_length": 0.48,
       "overall_length": 1.5,
-      "coating": "ALtima\u00ae Micro",
+      "coating": "ALtima® Micro",
       "substrate": "Carbide",
       "shank_type": "Straight",
       "part_number": "30508900AM",
       "edp": "34190",
       "tool_cost": 0,
       "parts_per_tool": 200,
-      "speeds": []
+      "speeds": [
+        {
+          "material": "P",
+          "sfm_low": 270,
+          "sfm_high": 270,
+          "feed_per_tooth": 0.0015
+        },
+        {
+          "material": "H",
+          "sfm_low": 60,
+          "sfm_high": 60,
+          "feed_per_tooth": 0.0007
+        },
+        {
+          "material": "M",
+          "sfm_low": 240,
+          "sfm_high": 240,
+          "feed_per_tooth": 0.0015
+        },
+        {
+          "material": "N",
+          "sfm_low": 450,
+          "sfm_high": 450,
+          "feed_per_tooth": 0.002
+        },
+        {
+          "material": "K",
+          "sfm_low": 480,
+          "sfm_high": 480,
+          "feed_per_tooth": 0.0015
+        },
+        {
+          "material": "S",
+          "sfm_low": 70,
+          "sfm_high": 70,
+          "feed_per_tooth": 0.0015
+        }
+      ]
     },
     {
       "tool_type": "Drill",
@@ -697,14 +2288,51 @@
       "num_flutes": 2,
       "flute_length": 0.48,
       "overall_length": 1.5,
-      "coating": "ALtima\u00ae Micro",
+      "coating": "ALtima® Micro",
       "substrate": "Carbide",
       "shank_type": "Straight",
       "part_number": "30509350AM",
       "edp": "34191",
       "tool_cost": 0,
       "parts_per_tool": 200,
-      "speeds": []
+      "speeds": [
+        {
+          "material": "P",
+          "sfm_low": 270,
+          "sfm_high": 270,
+          "feed_per_tooth": 0.0015
+        },
+        {
+          "material": "H",
+          "sfm_low": 60,
+          "sfm_high": 60,
+          "feed_per_tooth": 0.0007
+        },
+        {
+          "material": "M",
+          "sfm_low": 240,
+          "sfm_high": 240,
+          "feed_per_tooth": 0.0015
+        },
+        {
+          "material": "N",
+          "sfm_low": 450,
+          "sfm_high": 450,
+          "feed_per_tooth": 0.002
+        },
+        {
+          "material": "K",
+          "sfm_low": 480,
+          "sfm_high": 480,
+          "feed_per_tooth": 0.0015
+        },
+        {
+          "material": "S",
+          "sfm_low": 70,
+          "sfm_high": 70,
+          "feed_per_tooth": 0.0015
+        }
+      ]
     },
     {
       "tool_type": "Drill",
@@ -713,14 +2341,51 @@
       "num_flutes": 2,
       "flute_length": 0.48,
       "overall_length": 1.5,
-      "coating": "ALtima\u00ae Micro",
+      "coating": "ALtima® Micro",
       "substrate": "Carbide",
       "shank_type": "Straight",
       "part_number": "30509380AM",
       "edp": "34192",
       "tool_cost": 0,
       "parts_per_tool": 200,
-      "speeds": []
+      "speeds": [
+        {
+          "material": "P",
+          "sfm_low": 270,
+          "sfm_high": 270,
+          "feed_per_tooth": 0.0023
+        },
+        {
+          "material": "H",
+          "sfm_low": 60,
+          "sfm_high": 60,
+          "feed_per_tooth": 0.0011
+        },
+        {
+          "material": "M",
+          "sfm_low": 240,
+          "sfm_high": 240,
+          "feed_per_tooth": 0.0023
+        },
+        {
+          "material": "N",
+          "sfm_low": 450,
+          "sfm_high": 450,
+          "feed_per_tooth": 0.003
+        },
+        {
+          "material": "K",
+          "sfm_low": 480,
+          "sfm_high": 480,
+          "feed_per_tooth": 0.0023
+        },
+        {
+          "material": "S",
+          "sfm_low": 70,
+          "sfm_high": 70,
+          "feed_per_tooth": 0.0023
+        }
+      ]
     },
     {
       "tool_type": "Drill",
@@ -729,14 +2394,51 @@
       "num_flutes": 2,
       "flute_length": 0.48,
       "overall_length": 1.5,
-      "coating": "ALtima\u00ae Micro",
+      "coating": "ALtima® Micro",
       "substrate": "Carbide",
       "shank_type": "Straight",
       "part_number": "30509600AM",
       "edp": "34193",
       "tool_cost": 0,
       "parts_per_tool": 200,
-      "speeds": []
+      "speeds": [
+        {
+          "material": "P",
+          "sfm_low": 270,
+          "sfm_high": 270,
+          "feed_per_tooth": 0.0023
+        },
+        {
+          "material": "H",
+          "sfm_low": 60,
+          "sfm_high": 60,
+          "feed_per_tooth": 0.0011
+        },
+        {
+          "material": "M",
+          "sfm_low": 240,
+          "sfm_high": 240,
+          "feed_per_tooth": 0.0023
+        },
+        {
+          "material": "N",
+          "sfm_low": 450,
+          "sfm_high": 450,
+          "feed_per_tooth": 0.003
+        },
+        {
+          "material": "K",
+          "sfm_low": 480,
+          "sfm_high": 480,
+          "feed_per_tooth": 0.0023
+        },
+        {
+          "material": "S",
+          "sfm_low": 70,
+          "sfm_high": 70,
+          "feed_per_tooth": 0.0023
+        }
+      ]
     },
     {
       "tool_type": "Drill",
@@ -745,14 +2447,51 @@
       "num_flutes": 2,
       "flute_length": 0.48,
       "overall_length": 1.5,
-      "coating": "ALtima\u00ae Micro",
+      "coating": "ALtima® Micro",
       "substrate": "Carbide",
       "shank_type": "Straight",
       "part_number": "30509800AM",
       "edp": "34194",
       "tool_cost": 0,
       "parts_per_tool": 200,
-      "speeds": []
+      "speeds": [
+        {
+          "material": "P",
+          "sfm_low": 270,
+          "sfm_high": 270,
+          "feed_per_tooth": 0.0023
+        },
+        {
+          "material": "H",
+          "sfm_low": 60,
+          "sfm_high": 60,
+          "feed_per_tooth": 0.0011
+        },
+        {
+          "material": "M",
+          "sfm_low": 240,
+          "sfm_high": 240,
+          "feed_per_tooth": 0.0023
+        },
+        {
+          "material": "N",
+          "sfm_low": 450,
+          "sfm_high": 450,
+          "feed_per_tooth": 0.003
+        },
+        {
+          "material": "K",
+          "sfm_low": 480,
+          "sfm_high": 480,
+          "feed_per_tooth": 0.0023
+        },
+        {
+          "material": "S",
+          "sfm_low": 70,
+          "sfm_high": 70,
+          "feed_per_tooth": 0.0023
+        }
+      ]
     },
     {
       "tool_type": "Drill",
@@ -761,14 +2500,51 @@
       "num_flutes": 2,
       "flute_length": 0.48,
       "overall_length": 1.5,
-      "coating": "ALtima\u00ae Micro",
+      "coating": "ALtima® Micro",
       "substrate": "Carbide",
       "shank_type": "Straight",
       "part_number": "30509950AM",
       "edp": "34195",
       "tool_cost": 0,
       "parts_per_tool": 200,
-      "speeds": []
+      "speeds": [
+        {
+          "material": "P",
+          "sfm_low": 270,
+          "sfm_high": 270,
+          "feed_per_tooth": 0.0023
+        },
+        {
+          "material": "H",
+          "sfm_low": 60,
+          "sfm_high": 60,
+          "feed_per_tooth": 0.0011
+        },
+        {
+          "material": "M",
+          "sfm_low": 240,
+          "sfm_high": 240,
+          "feed_per_tooth": 0.0023
+        },
+        {
+          "material": "N",
+          "sfm_low": 450,
+          "sfm_high": 450,
+          "feed_per_tooth": 0.003
+        },
+        {
+          "material": "K",
+          "sfm_low": 480,
+          "sfm_high": 480,
+          "feed_per_tooth": 0.0023
+        },
+        {
+          "material": "S",
+          "sfm_low": 70,
+          "sfm_high": 70,
+          "feed_per_tooth": 0.0023
+        }
+      ]
     },
     {
       "tool_type": "Drill",
@@ -777,14 +2553,51 @@
       "num_flutes": 2,
       "flute_length": 0.48,
       "overall_length": 1.5,
-      "coating": "ALtima\u00ae Micro",
+      "coating": "ALtima® Micro",
       "substrate": "Carbide",
       "shank_type": "Straight",
       "part_number": "30510150AM",
       "edp": "34196",
       "tool_cost": 0,
       "parts_per_tool": 200,
-      "speeds": []
+      "speeds": [
+        {
+          "material": "P",
+          "sfm_low": 270,
+          "sfm_high": 270,
+          "feed_per_tooth": 0.0023
+        },
+        {
+          "material": "H",
+          "sfm_low": 60,
+          "sfm_high": 60,
+          "feed_per_tooth": 0.0011
+        },
+        {
+          "material": "M",
+          "sfm_low": 240,
+          "sfm_high": 240,
+          "feed_per_tooth": 0.0023
+        },
+        {
+          "material": "N",
+          "sfm_low": 450,
+          "sfm_high": 450,
+          "feed_per_tooth": 0.003
+        },
+        {
+          "material": "K",
+          "sfm_low": 480,
+          "sfm_high": 480,
+          "feed_per_tooth": 0.0023
+        },
+        {
+          "material": "S",
+          "sfm_low": 70,
+          "sfm_high": 70,
+          "feed_per_tooth": 0.0023
+        }
+      ]
     },
     {
       "tool_type": "Drill",
@@ -793,14 +2606,51 @@
       "num_flutes": 2,
       "flute_length": 0.48,
       "overall_length": 1.5,
-      "coating": "ALtima\u00ae Micro",
+      "coating": "ALtima® Micro",
       "substrate": "Carbide",
       "shank_type": "Straight",
       "part_number": "30510400AM",
       "edp": "34197",
       "tool_cost": 0,
       "parts_per_tool": 200,
-      "speeds": []
+      "speeds": [
+        {
+          "material": "P",
+          "sfm_low": 270,
+          "sfm_high": 270,
+          "feed_per_tooth": 0.0023
+        },
+        {
+          "material": "H",
+          "sfm_low": 60,
+          "sfm_high": 60,
+          "feed_per_tooth": 0.0011
+        },
+        {
+          "material": "M",
+          "sfm_low": 240,
+          "sfm_high": 240,
+          "feed_per_tooth": 0.0023
+        },
+        {
+          "material": "N",
+          "sfm_low": 450,
+          "sfm_high": 450,
+          "feed_per_tooth": 0.003
+        },
+        {
+          "material": "K",
+          "sfm_low": 480,
+          "sfm_high": 480,
+          "feed_per_tooth": 0.0023
+        },
+        {
+          "material": "S",
+          "sfm_low": 70,
+          "sfm_high": 70,
+          "feed_per_tooth": 0.0023
+        }
+      ]
     },
     {
       "tool_type": "Drill",
@@ -809,14 +2659,51 @@
       "num_flutes": 2,
       "flute_length": 0.48,
       "overall_length": 1.5,
-      "coating": "ALtima\u00ae Micro",
+      "coating": "ALtima® Micro",
       "substrate": "Carbide",
       "shank_type": "Straight",
       "part_number": "30510650AM",
       "edp": "34198",
       "tool_cost": 0,
       "parts_per_tool": 200,
-      "speeds": []
+      "speeds": [
+        {
+          "material": "P",
+          "sfm_low": 270,
+          "sfm_high": 270,
+          "feed_per_tooth": 0.0023
+        },
+        {
+          "material": "H",
+          "sfm_low": 60,
+          "sfm_high": 60,
+          "feed_per_tooth": 0.0011
+        },
+        {
+          "material": "M",
+          "sfm_low": 240,
+          "sfm_high": 240,
+          "feed_per_tooth": 0.0023
+        },
+        {
+          "material": "N",
+          "sfm_low": 450,
+          "sfm_high": 450,
+          "feed_per_tooth": 0.003
+        },
+        {
+          "material": "K",
+          "sfm_low": 480,
+          "sfm_high": 480,
+          "feed_per_tooth": 0.0023
+        },
+        {
+          "material": "S",
+          "sfm_low": 70,
+          "sfm_high": 70,
+          "feed_per_tooth": 0.0023
+        }
+      ]
     },
     {
       "tool_type": "Drill",
@@ -825,14 +2712,51 @@
       "num_flutes": 2,
       "flute_length": 0.48,
       "overall_length": 1.5,
-      "coating": "ALtima\u00ae Micro",
+      "coating": "ALtima® Micro",
       "substrate": "Carbide",
       "shank_type": "Straight",
       "part_number": "30510940AM",
       "edp": "34199",
       "tool_cost": 0,
       "parts_per_tool": 200,
-      "speeds": []
+      "speeds": [
+        {
+          "material": "P",
+          "sfm_low": 270,
+          "sfm_high": 270,
+          "feed_per_tooth": 0.0023
+        },
+        {
+          "material": "H",
+          "sfm_low": 60,
+          "sfm_high": 60,
+          "feed_per_tooth": 0.0011
+        },
+        {
+          "material": "M",
+          "sfm_low": 240,
+          "sfm_high": 240,
+          "feed_per_tooth": 0.0023
+        },
+        {
+          "material": "N",
+          "sfm_low": 450,
+          "sfm_high": 450,
+          "feed_per_tooth": 0.003
+        },
+        {
+          "material": "K",
+          "sfm_low": 480,
+          "sfm_high": 480,
+          "feed_per_tooth": 0.0023
+        },
+        {
+          "material": "S",
+          "sfm_low": 70,
+          "sfm_high": 70,
+          "feed_per_tooth": 0.0023
+        }
+      ]
     },
     {
       "tool_type": "Drill",
@@ -841,14 +2765,51 @@
       "num_flutes": 2,
       "flute_length": 0.48,
       "overall_length": 1.5,
-      "coating": "ALtima\u00ae Micro",
+      "coating": "ALtima® Micro",
       "substrate": "Carbide",
       "shank_type": "Straight",
       "part_number": "30511000AM",
       "edp": "34200",
       "tool_cost": 0,
       "parts_per_tool": 200,
-      "speeds": []
+      "speeds": [
+        {
+          "material": "P",
+          "sfm_low": 270,
+          "sfm_high": 270,
+          "feed_per_tooth": 0.0023
+        },
+        {
+          "material": "H",
+          "sfm_low": 60,
+          "sfm_high": 60,
+          "feed_per_tooth": 0.0011
+        },
+        {
+          "material": "M",
+          "sfm_low": 240,
+          "sfm_high": 240,
+          "feed_per_tooth": 0.0023
+        },
+        {
+          "material": "N",
+          "sfm_low": 450,
+          "sfm_high": 450,
+          "feed_per_tooth": 0.003
+        },
+        {
+          "material": "K",
+          "sfm_low": 480,
+          "sfm_high": 480,
+          "feed_per_tooth": 0.0023
+        },
+        {
+          "material": "S",
+          "sfm_low": 70,
+          "sfm_high": 70,
+          "feed_per_tooth": 0.0023
+        }
+      ]
     },
     {
       "tool_type": "Drill",
@@ -857,14 +2818,51 @@
       "num_flutes": 2,
       "flute_length": 0.48,
       "overall_length": 1.5,
-      "coating": "ALtima\u00ae Micro",
+      "coating": "ALtima® Micro",
       "substrate": "Carbide",
       "shank_type": "Straight",
       "part_number": "30511100AM",
       "edp": "34201",
       "tool_cost": 0,
       "parts_per_tool": 200,
-      "speeds": []
+      "speeds": [
+        {
+          "material": "P",
+          "sfm_low": 270,
+          "sfm_high": 270,
+          "feed_per_tooth": 0.0023
+        },
+        {
+          "material": "H",
+          "sfm_low": 60,
+          "sfm_high": 60,
+          "feed_per_tooth": 0.0011
+        },
+        {
+          "material": "M",
+          "sfm_low": 240,
+          "sfm_high": 240,
+          "feed_per_tooth": 0.0023
+        },
+        {
+          "material": "N",
+          "sfm_low": 450,
+          "sfm_high": 450,
+          "feed_per_tooth": 0.003
+        },
+        {
+          "material": "K",
+          "sfm_low": 480,
+          "sfm_high": 480,
+          "feed_per_tooth": 0.0023
+        },
+        {
+          "material": "S",
+          "sfm_low": 70,
+          "sfm_high": 70,
+          "feed_per_tooth": 0.0023
+        }
+      ]
     },
     {
       "tool_type": "Drill",
@@ -873,14 +2871,51 @@
       "num_flutes": 2,
       "flute_length": 0.48,
       "overall_length": 1.5,
-      "coating": "ALtima\u00ae Micro",
+      "coating": "ALtima® Micro",
       "substrate": "Carbide",
       "shank_type": "Straight",
       "part_number": "30511300AM",
       "edp": "34202",
       "tool_cost": 0,
       "parts_per_tool": 200,
-      "speeds": []
+      "speeds": [
+        {
+          "material": "P",
+          "sfm_low": 270,
+          "sfm_high": 270,
+          "feed_per_tooth": 0.0023
+        },
+        {
+          "material": "H",
+          "sfm_low": 60,
+          "sfm_high": 60,
+          "feed_per_tooth": 0.0011
+        },
+        {
+          "material": "M",
+          "sfm_low": 240,
+          "sfm_high": 240,
+          "feed_per_tooth": 0.0023
+        },
+        {
+          "material": "N",
+          "sfm_low": 450,
+          "sfm_high": 450,
+          "feed_per_tooth": 0.003
+        },
+        {
+          "material": "K",
+          "sfm_low": 480,
+          "sfm_high": 480,
+          "feed_per_tooth": 0.0023
+        },
+        {
+          "material": "S",
+          "sfm_low": 70,
+          "sfm_high": 70,
+          "feed_per_tooth": 0.0023
+        }
+      ]
     },
     {
       "tool_type": "Drill",
@@ -889,14 +2924,51 @@
       "num_flutes": 2,
       "flute_length": 0.48,
       "overall_length": 1.5,
-      "coating": "ALtima\u00ae Micro",
+      "coating": "ALtima® Micro",
       "substrate": "Carbide",
       "shank_type": "Straight",
       "part_number": "30511600AM",
       "edp": "34203",
       "tool_cost": 0,
       "parts_per_tool": 200,
-      "speeds": []
+      "speeds": [
+        {
+          "material": "P",
+          "sfm_low": 270,
+          "sfm_high": 270,
+          "feed_per_tooth": 0.0023
+        },
+        {
+          "material": "H",
+          "sfm_low": 60,
+          "sfm_high": 60,
+          "feed_per_tooth": 0.0011
+        },
+        {
+          "material": "M",
+          "sfm_low": 240,
+          "sfm_high": 240,
+          "feed_per_tooth": 0.0023
+        },
+        {
+          "material": "N",
+          "sfm_low": 450,
+          "sfm_high": 450,
+          "feed_per_tooth": 0.003
+        },
+        {
+          "material": "K",
+          "sfm_low": 480,
+          "sfm_high": 480,
+          "feed_per_tooth": 0.0023
+        },
+        {
+          "material": "S",
+          "sfm_low": 70,
+          "sfm_high": 70,
+          "feed_per_tooth": 0.0023
+        }
+      ]
     },
     {
       "tool_type": "Drill",
@@ -905,14 +2977,51 @@
       "num_flutes": 2,
       "flute_length": 0.48,
       "overall_length": 1.5,
-      "coating": "ALtima\u00ae Micro",
+      "coating": "ALtima® Micro",
       "substrate": "Carbide",
       "shank_type": "Straight",
       "part_number": "30512000AM",
       "edp": "34204",
       "tool_cost": 0,
       "parts_per_tool": 200,
-      "speeds": []
+      "speeds": [
+        {
+          "material": "P",
+          "sfm_low": 270,
+          "sfm_high": 270,
+          "feed_per_tooth": 0.0023
+        },
+        {
+          "material": "H",
+          "sfm_low": 60,
+          "sfm_high": 60,
+          "feed_per_tooth": 0.0011
+        },
+        {
+          "material": "M",
+          "sfm_low": 240,
+          "sfm_high": 240,
+          "feed_per_tooth": 0.0023
+        },
+        {
+          "material": "N",
+          "sfm_low": 450,
+          "sfm_high": 450,
+          "feed_per_tooth": 0.003
+        },
+        {
+          "material": "K",
+          "sfm_low": 480,
+          "sfm_high": 480,
+          "feed_per_tooth": 0.0023
+        },
+        {
+          "material": "S",
+          "sfm_low": 70,
+          "sfm_high": 70,
+          "feed_per_tooth": 0.0023
+        }
+      ]
     },
     {
       "tool_type": "Drill",
@@ -921,14 +3030,51 @@
       "num_flutes": 2,
       "flute_length": 0.48,
       "overall_length": 1.5,
-      "coating": "ALtima\u00ae Micro",
+      "coating": "ALtima® Micro",
       "substrate": "Carbide",
       "shank_type": "Straight",
       "part_number": "30512500AM",
       "edp": "34205",
       "tool_cost": 0,
       "parts_per_tool": 200,
-      "speeds": []
+      "speeds": [
+        {
+          "material": "P",
+          "sfm_low": 270,
+          "sfm_high": 270,
+          "feed_per_tooth": 0.003
+        },
+        {
+          "material": "H",
+          "sfm_low": 60,
+          "sfm_high": 60,
+          "feed_per_tooth": 0.0014
+        },
+        {
+          "material": "M",
+          "sfm_low": 240,
+          "sfm_high": 240,
+          "feed_per_tooth": 0.003
+        },
+        {
+          "material": "N",
+          "sfm_low": 450,
+          "sfm_high": 450,
+          "feed_per_tooth": 0.004
+        },
+        {
+          "material": "K",
+          "sfm_low": 480,
+          "sfm_high": 480,
+          "feed_per_tooth": 0.003
+        },
+        {
+          "material": "S",
+          "sfm_low": 70,
+          "sfm_high": 70,
+          "feed_per_tooth": 0.003
+        }
+      ]
     }
   ]
 }
