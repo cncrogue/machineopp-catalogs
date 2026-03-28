@@ -1,0 +1,20 @@
+{
+  "catalogs": [
+    {
+      "name": "Essential End Mills",
+      "category": "starter",
+      "description": "Common 2FL and 4FL carbide end mills, ball mills, chamfer mills with speeds for all material groups",
+      "file": "starter_end_mills.json",
+      "version": 1,
+      "tool_count": 24
+    },
+    {
+      "name": "Essential Drills & Taps",
+      "category": "starter",
+      "description": "Standard carbide drills, HSS taps (UNC/UNF/Metric), reamers, and countersinks",
+      "file": "starter_drills_taps.json",
+      "version": 1,
+      "tool_count": 32
+    }
+  ]
+}
