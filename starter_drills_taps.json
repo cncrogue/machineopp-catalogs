@@ -1,6 +1,6 @@
 {
   "catalog": "Essential Drills & Taps",
-  "manufacturer": null,
+  "manufacturer": "Starter Kit",
   "tools": [
     {"tool_type":"Drill","tool_name":"1/8\" Carbide Drill","diameter":0.125,"num_flutes":2,"flute_length":0.75,"overall_length":2.0,"coating":"TiN","substrate":"Carbide","tool_cost":12.00,"parts_per_tool":300,"speeds":[{"material":"P","sfm_low":250,"sfm_high":400,"feed_per_tooth":0.002},{"material":"M","sfm_low":200,"sfm_high":300,"feed_per_tooth":0.0015},{"material":"N","sfm_low":350,"sfm_high":550,"feed_per_tooth":0.003}]},
     {"tool_type":"Drill","tool_name":"1/4\" Carbide Drill","diameter":0.25,"num_flutes":2,"flute_length":1.5,"overall_length":3.0,"coating":"TiN","substrate":"Carbide","tool_cost":16.00,"parts_per_tool":350,"speeds":[{"material":"P","sfm_low":300,"sfm_high":450,"feed_per_tooth":0.004},{"material":"M","sfm_low":200,"sfm_high":350,"feed_per_tooth":0.003},{"material":"K","sfm_low":300,"sfm_high":500,"feed_per_tooth":0.005},{"material":"N","sfm_low":400,"sfm_high":600,"feed_per_tooth":0.005},{"material":"S","sfm_low":80,"sfm_high":150,"feed_per_tooth":0.002}]},

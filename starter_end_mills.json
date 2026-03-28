@@ -1,6 +1,6 @@
 {
   "catalog": "Essential End Mills",
-  "manufacturer": null,
+  "manufacturer": "Starter Kit",
   "tools": [
     {"tool_type":"End Mill","tool_name":"1/8\" 2FL Carbide End Mill","diameter":0.125,"num_flutes":2,"flute_length":0.5,"overall_length":1.5,"coating":"Uncoated","substrate":"Carbide","tool_cost":12.00,"parts_per_tool":150,"speeds":[{"material":"P","sfm_low":350,"sfm_high":500,"feed_per_tooth":0.001},{"material":"M","sfm_low":250,"sfm_high":400,"feed_per_tooth":0.001},{"material":"K","sfm_low":400,"sfm_high":600,"feed_per_tooth":0.001},{"material":"N","sfm_low":800,"sfm_high":1200,"feed_per_tooth":0.002},{"material":"S","sfm_low":100,"sfm_high":200,"feed_per_tooth":0.001},{"material":"H","sfm_low":150,"sfm_high":300,"feed_per_tooth":0.001}]},
     {"tool_type":"End Mill","tool_name":"1/4\" 2FL Carbide End Mill","diameter":0.25,"num_flutes":2,"flute_length":0.75,"overall_length":2.5,"coating":"Uncoated","substrate":"Carbide","tool_cost":15.00,"parts_per_tool":200,"speeds":[{"material":"P","sfm_low":400,"sfm_high":600,"feed_per_tooth":0.002},{"material":"M","sfm_low":300,"sfm_high":450,"feed_per_tooth":0.0015},{"material":"K","sfm_low":450,"sfm_high":650,"feed_per_tooth":0.002},{"material":"N","sfm_low":900,"sfm_high":1200,"feed_per_tooth":0.003},{"material":"S","sfm_low":120,"sfm_high":220,"feed_per_tooth":0.001},{"material":"H","sfm_low":180,"sfm_high":300,"feed_per_tooth":0.001}]},
