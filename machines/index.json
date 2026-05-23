@@ -1,0 +1,25 @@
+{
+  "catalogs": [
+    {
+      "name": "Haas Mills",
+      "description": "Haas vertical machining centers (VF series, UMC, EC-1600 HMC)",
+      "file": "haas_mills.json",
+      "version": 1,
+      "machine_count": 7
+    },
+    {
+      "name": "Haas Lathes",
+      "description": "Haas turning centers, ST-15 through ST-40",
+      "file": "haas_lathes.json",
+      "version": 1,
+      "machine_count": 5
+    },
+    {
+      "name": "DN Solutions Lathes",
+      "description": "DN Solutions (Doosan) Puma series + Lynx 220LSY sub-spindle",
+      "file": "dn_solutions_lathes.json",
+      "version": 1,
+      "machine_count": 4
+    }
+  ]
+}

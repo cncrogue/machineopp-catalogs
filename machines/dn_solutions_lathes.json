@@ -1,0 +1,62 @@
+{
+  "catalog": "DN Solutions Lathes",
+  "manufacturer": "DN Solutions",
+  "machines": [
+    {
+      "name": "Puma 2100",
+      "machine_type": "lathe",
+      "axis_count": 2,
+      "turret_count": 1,
+      "has_sub_spindle": false,
+      "rapid_x": 1181,
+      "rapid_y": 0,
+      "rapid_z": 1181,
+      "max_rpm": 5000,
+      "spindle_ramp_sec": 2.0,
+      "tool_change_sec": 3.0,
+      "notes": "8-in chuck. 30 m/min rapids. Workhorse production lathe."
+    },
+    {
+      "name": "Puma 2600",
+      "machine_type": "lathe",
+      "axis_count": 2,
+      "turret_count": 1,
+      "has_sub_spindle": false,
+      "rapid_x": 1181,
+      "rapid_y": 0,
+      "rapid_z": 1181,
+      "max_rpm": 4500,
+      "spindle_ramp_sec": 2.5,
+      "tool_change_sec": 3.0,
+      "notes": "10-in chuck, heavier-duty version of Puma 2100."
+    },
+    {
+      "name": "Puma 3100",
+      "machine_type": "lathe",
+      "axis_count": 2,
+      "turret_count": 1,
+      "has_sub_spindle": false,
+      "rapid_x": 1181,
+      "rapid_y": 0,
+      "rapid_z": 1181,
+      "max_rpm": 3500,
+      "spindle_ramp_sec": 3.0,
+      "tool_change_sec": 3.5,
+      "notes": "12-in chuck, large bore for big-part turning."
+    },
+    {
+      "name": "Lynx 220LSY",
+      "machine_type": "lathe",
+      "axis_count": 3,
+      "turret_count": 1,
+      "has_sub_spindle": true,
+      "rapid_x": 1181,
+      "rapid_y": 393,
+      "rapid_z": 1417,
+      "max_rpm": 5000,
+      "spindle_ramp_sec": 2.0,
+      "tool_change_sec": 3.0,
+      "notes": "Linear-guide variant of Lynx 220, sub-spindle + Y-axis. 8-in main chuck."
+    }
+  ]
+}

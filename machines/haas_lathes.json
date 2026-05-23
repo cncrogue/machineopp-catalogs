@@ -1,0 +1,76 @@
+{
+  "catalog": "Haas Lathes",
+  "manufacturer": "Haas Automation",
+  "machines": [
+    {
+      "name": "Haas ST-15",
+      "machine_type": "lathe",
+      "axis_count": 2,
+      "turret_count": 1,
+      "has_sub_spindle": false,
+      "rapid_x": 1100,
+      "rapid_y": 0,
+      "rapid_z": 1400,
+      "max_rpm": 4000,
+      "spindle_ramp_sec": 2.0,
+      "tool_change_sec": 3.0,
+      "notes": "Bar-feeder friendly small lathe. 5C collet capacity standard."
+    },
+    {
+      "name": "Haas ST-25",
+      "machine_type": "lathe",
+      "axis_count": 2,
+      "turret_count": 1,
+      "has_sub_spindle": false,
+      "rapid_x": 1100,
+      "rapid_y": 0,
+      "rapid_z": 1400,
+      "max_rpm": 3400,
+      "spindle_ramp_sec": 2.5,
+      "tool_change_sec": 3.0,
+      "notes": "10-in chuck, 30 hp main drive."
+    },
+    {
+      "name": "Haas ST-30",
+      "machine_type": "lathe",
+      "axis_count": 2,
+      "turret_count": 1,
+      "has_sub_spindle": false,
+      "rapid_x": 1100,
+      "rapid_y": 0,
+      "rapid_z": 1400,
+      "max_rpm": 2400,
+      "spindle_ramp_sec": 3.0,
+      "tool_change_sec": 3.0,
+      "notes": "12-in chuck, larger spindle bore."
+    },
+    {
+      "name": "Haas ST-35",
+      "machine_type": "lathe",
+      "axis_count": 2,
+      "turret_count": 1,
+      "has_sub_spindle": false,
+      "rapid_x": 1100,
+      "rapid_y": 0,
+      "rapid_z": 1400,
+      "max_rpm": 2200,
+      "spindle_ramp_sec": 3.5,
+      "tool_change_sec": 3.5,
+      "notes": "15-in chuck, heavier-duty turning."
+    },
+    {
+      "name": "Haas ST-40",
+      "machine_type": "lathe",
+      "axis_count": 2,
+      "turret_count": 1,
+      "has_sub_spindle": false,
+      "rapid_x": 945,
+      "rapid_y": 0,
+      "rapid_z": 1100,
+      "max_rpm": 1400,
+      "spindle_ramp_sec": 4.0,
+      "tool_change_sec": 4.0,
+      "notes": "18-in chuck, heavy-cut lathe."
+    }
+  ]
+}
