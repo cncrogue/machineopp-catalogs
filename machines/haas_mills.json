@@ -3,6 +3,34 @@
   "manufacturer": "Haas Automation",
   "machines": [
     {
+      "name": "Haas VF-4",
+      "machine_type": "mill",
+      "axis_count": 3,
+      "turret_count": 1,
+      "has_sub_spindle": false,
+      "rapid_x": 1000,
+      "rapid_y": 1000,
+      "rapid_z": 1000,
+      "max_rpm": 8100,
+      "spindle_ramp_sec": 3.5,
+      "tool_change_sec": 7.5,
+      "notes": "Larger 40-taper VMC. Slightly slower ATC than VF-2."
+    },
+    {
+      "name": "Haas VF-2",
+      "machine_type": "mill",
+      "axis_count": 3,
+      "turret_count": 1,
+      "has_sub_spindle": false,
+      "rapid_x": 1000,
+      "rapid_y": 1000,
+      "rapid_z": 1000,
+      "max_rpm": 8100,
+      "spindle_ramp_sec": 3.5,
+      "tool_change_sec": 7.0,
+      "notes": "Standard 40-taper VMC. Chip-to-chip ~7s."
+    },
+    {
       "name": "Haas VF-1",
       "machine_type": "mill",
       "axis_count": 3,

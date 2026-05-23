@@ -4,8 +4,8 @@
       "name": "Haas Mills",
       "description": "Haas vertical machining centers (VF series, UMC, EC-1600 HMC)",
       "file": "haas_mills.json",
-      "version": 1,
-      "machine_count": 7
+      "version": 2,
+      "machine_count": 9
     },
     {
       "name": "Haas Mills - Extras",
@@ -18,29 +18,29 @@
       "name": "Haas Lathes",
       "description": "Haas turning centers, ST-15 through ST-40",
       "file": "haas_lathes.json",
-      "version": 1,
-      "machine_count": 5
+      "version": 2,
+      "machine_count": 7
     },
     {
       "name": "Mazak Mills",
       "description": "Mazak VCN/VTC vertical mills, VARIAXIS 5-axis, HCN horizontal mills",
       "file": "mazak_mills.json",
-      "version": 1,
-      "machine_count": 8
+      "version": 2,
+      "machine_count": 10
     },
     {
       "name": "Mazak Lathes",
       "description": "Mazak Quick Turn / QT-Smart production lathes, INTEGREX multitask",
       "file": "mazak_lathes.json",
-      "version": 1,
-      "machine_count": 7
+      "version": 2,
+      "machine_count": 8
     },
     {
       "name": "DMG MORI Mills",
       "description": "DMG MORI NVX/CMX/DMU vertical + NHX horizontal mills",
       "file": "dmg_mori_mills.json",
-      "version": 1,
-      "machine_count": 8
+      "version": 2,
+      "machine_count": 10
     },
     {
       "name": "DMG MORI Lathes",
@@ -53,15 +53,15 @@
       "name": "Makino Mills",
       "description": "Makino A-series HMCs, F-series VMCs, D-series 5-axis",
       "file": "makino_mills.json",
-      "version": 1,
-      "machine_count": 7
+      "version": 2,
+      "machine_count": 9
     },
     {
       "name": "YCM Mills",
       "description": "YCM NXV/NMV/NSV verticals, DCV drilling center, HMC-600 horizontal",
       "file": "ycm_mills.json",
-      "version": 1,
-      "machine_count": 6
+      "version": 2,
+      "machine_count": 8
     },
     {
       "name": "Brother Speedio",
@@ -88,15 +88,15 @@
       "name": "DN Solutions Lathes",
       "description": "DN Solutions (Doosan) Puma series + Lynx 220LSY sub-spindle",
       "file": "dn_solutions_lathes.json",
-      "version": 1,
-      "machine_count": 4
+      "version": 2,
+      "machine_count": 5
     },
     {
       "name": "DN Solutions Mills",
       "description": "DN Solutions DNM/DVF verticals, NHM/NHP horizontals, 5-axis variants",
       "file": "dn_solutions_mills.json",
-      "version": 1,
-      "machine_count": 7
+      "version": 2,
+      "machine_count": 9
     }
   ]
 }

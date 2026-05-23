@@ -3,6 +3,34 @@
   "manufacturer": "Haas Automation",
   "machines": [
     {
+      "name": "Haas ST-20",
+      "machine_type": "lathe",
+      "axis_count": 2,
+      "turret_count": 1,
+      "has_sub_spindle": false,
+      "rapid_x": 945,
+      "rapid_y": 0,
+      "rapid_z": 1417,
+      "max_rpm": 4400,
+      "spindle_ramp_sec": 2.5,
+      "tool_change_sec": 3.0,
+      "notes": "10-in chuck. Pairs with VF-2 for typical job-shop work."
+    },
+    {
+      "name": "Haas ST-10",
+      "machine_type": "lathe",
+      "axis_count": 2,
+      "turret_count": 1,
+      "has_sub_spindle": false,
+      "rapid_x": 945,
+      "rapid_y": 0,
+      "rapid_z": 1417,
+      "max_rpm": 6000,
+      "spindle_ramp_sec": 2.0,
+      "tool_change_sec": 3.0,
+      "notes": "8-in chuck, BMT turret. Sub-spindle available as option."
+    },
+    {
       "name": "Haas ST-15",
       "machine_type": "lathe",
       "axis_count": 2,

@@ -3,6 +3,20 @@
   "manufacturer": "DN Solutions",
   "machines": [
     {
+      "name": "Lynx 2100",
+      "machine_type": "lathe",
+      "axis_count": 2,
+      "turret_count": 1,
+      "has_sub_spindle": false,
+      "rapid_x": 1181,
+      "rapid_y": 0,
+      "rapid_z": 1417,
+      "max_rpm": 5000,
+      "spindle_ramp_sec": 2.0,
+      "tool_change_sec": 3.0,
+      "notes": "8-in chuck. LSY variant adds Y-axis + sub-spindle."
+    },
+    {
       "name": "Puma 2100",
       "machine_type": "lathe",
       "axis_count": 2,
