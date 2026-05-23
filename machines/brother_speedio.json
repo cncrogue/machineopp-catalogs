@@ -1,0 +1,11 @@
+{
+  "catalog": "Brother Speedio",
+  "manufacturer": "Brother",
+  "machines": [
+    {"name": "Speedio S500X1", "machine_type": "mill", "axis_count": 3, "turret_count": 1, "has_sub_spindle": false, "rapid_x": 1968, "rapid_y": 1968, "rapid_z": 1968, "max_rpm": 16000, "spindle_ramp_sec": 0.8, "tool_change_sec": 1.4, "notes": "Compact 30-taper high-speed mill, 50 m/min rapids, sub-second ATC."},
+    {"name": "Speedio S700X1", "machine_type": "mill", "axis_count": 3, "turret_count": 1, "has_sub_spindle": false, "rapid_x": 1968, "rapid_y": 1968, "rapid_z": 1968, "max_rpm": 16000, "spindle_ramp_sec": 0.8, "tool_change_sec": 1.4, "notes": "30-taper high-speed mill, 700mm X-travel."},
+    {"name": "Speedio M140X1", "machine_type": "mill", "axis_count": 4, "turret_count": 1, "has_sub_spindle": false, "rapid_x": 1968, "rapid_y": 1968, "rapid_z": 1968, "rapid_b": 14400, "max_rpm": 16000, "spindle_ramp_sec": 0.8, "tool_change_sec": 1.4, "notes": "Compact HMC variant of Speedio platform."},
+    {"name": "Speedio R450X", "machine_type": "mill", "axis_count": 5, "turret_count": 1, "has_sub_spindle": false, "rapid_x": 1968, "rapid_y": 1968, "rapid_z": 1968, "rapid_a": 14400, "rapid_c": 14400, "max_rpm": 16000, "spindle_ramp_sec": 0.8, "tool_change_sec": 1.4, "notes": "5-axis trunnion with rotary table, Speedio platform."},
+    {"name": "Speedio U500Xd1", "machine_type": "mill", "axis_count": 5, "turret_count": 1, "has_sub_spindle": false, "rapid_x": 1968, "rapid_y": 1968, "rapid_z": 1968, "rapid_a": 14400, "rapid_c": 14400, "max_rpm": 16000, "spindle_ramp_sec": 0.8, "tool_change_sec": 1.4, "notes": "5-axis VMC, large work envelope for the Speedio family."}
+  ]
+}

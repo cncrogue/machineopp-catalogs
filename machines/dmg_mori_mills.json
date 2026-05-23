@@ -1,0 +1,14 @@
+{
+  "catalog": "DMG MORI Mills",
+  "manufacturer": "DMG MORI",
+  "machines": [
+    {"name": "NVX 5080", "machine_type": "mill", "axis_count": 3, "turret_count": 1, "has_sub_spindle": false, "rapid_x": 1417, "rapid_y": 1417, "rapid_z": 1417, "max_rpm": 12000, "spindle_ramp_sec": 2.5, "tool_change_sec": 3.5, "notes": "40-taper VMC, 80-tool ATC variant of NVX 5060."},
+    {"name": "DMU 50", "machine_type": "mill", "axis_count": 5, "turret_count": 1, "has_sub_spindle": false, "rapid_x": 1181, "rapid_y": 1181, "rapid_z": 1181, "rapid_b": 14400, "rapid_c": 14400, "max_rpm": 14000, "spindle_ramp_sec": 2.0, "tool_change_sec": 3.0, "notes": "5-axis universal VMC, swivel rotary table."},
+    {"name": "DMU 75 monoBLOCK", "machine_type": "mill", "axis_count": 5, "turret_count": 1, "has_sub_spindle": false, "rapid_x": 1378, "rapid_y": 1378, "rapid_z": 1378, "rapid_b": 14400, "rapid_c": 14400, "max_rpm": 14000, "spindle_ramp_sec": 2.0, "tool_change_sec": 3.0, "notes": "5-axis monoBLOCK, 750mm work envelope."},
+    {"name": "CMX 50 U", "machine_type": "mill", "axis_count": 5, "turret_count": 1, "has_sub_spindle": false, "rapid_x": 1181, "rapid_y": 1181, "rapid_z": 1181, "rapid_b": 9000, "rapid_c": 14400, "max_rpm": 12000, "spindle_ramp_sec": 2.5, "tool_change_sec": 3.0, "notes": "Compact 5-axis universal, entry-level."},
+    {"name": "CMX 600 V", "machine_type": "mill", "axis_count": 3, "turret_count": 1, "has_sub_spindle": false, "rapid_x": 1378, "rapid_y": 1378, "rapid_z": 1378, "max_rpm": 12000, "spindle_ramp_sec": 2.5, "tool_change_sec": 3.5, "notes": "Entry-level 40-taper VMC."},
+    {"name": "CMX 800 V", "machine_type": "mill", "axis_count": 3, "turret_count": 1, "has_sub_spindle": false, "rapid_x": 1378, "rapid_y": 1378, "rapid_z": 1378, "max_rpm": 12000, "spindle_ramp_sec": 2.5, "tool_change_sec": 3.5, "notes": "Larger CMX VMC, 800mm X-travel."},
+    {"name": "NHX 4000", "machine_type": "mill", "axis_count": 4, "turret_count": 1, "has_sub_spindle": false, "rapid_x": 2362, "rapid_y": 2362, "rapid_z": 2362, "rapid_b": 14400, "max_rpm": 12000, "spindle_ramp_sec": 2.5, "tool_change_sec": 3.0, "notes": "40-taper HMC, 400mm pallet, 60 m/min."},
+    {"name": "NHX 6300", "machine_type": "mill", "axis_count": 4, "turret_count": 1, "has_sub_spindle": false, "rapid_x": 2362, "rapid_y": 2362, "rapid_z": 2362, "rapid_b": 14400, "max_rpm": 12000, "spindle_ramp_sec": 2.5, "tool_change_sec": 3.0, "notes": "50-taper HMC, 630mm pallet, large work zone."}
+  ]
+}

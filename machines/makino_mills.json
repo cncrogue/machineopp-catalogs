@@ -1,0 +1,13 @@
+{
+  "catalog": "Makino Mills",
+  "manufacturer": "Makino",
+  "machines": [
+    {"name": "Makino A41", "machine_type": "mill", "axis_count": 4, "turret_count": 1, "has_sub_spindle": false, "rapid_x": 1968, "rapid_y": 1968, "rapid_z": 1968, "rapid_b": 14400, "max_rpm": 14000, "spindle_ramp_sec": 1.8, "tool_change_sec": 2.5, "notes": "40-taper HMC, 400mm pallet (smaller than A51)."},
+    {"name": "Makino A61", "machine_type": "mill", "axis_count": 4, "turret_count": 1, "has_sub_spindle": false, "rapid_x": 1968, "rapid_y": 1968, "rapid_z": 1968, "rapid_b": 14400, "max_rpm": 14000, "spindle_ramp_sec": 1.8, "tool_change_sec": 2.5, "notes": "50-taper HMC, 630mm pallet, heavy duty."},
+    {"name": "Makino A81", "machine_type": "mill", "axis_count": 4, "turret_count": 1, "has_sub_spindle": false, "rapid_x": 1968, "rapid_y": 1968, "rapid_z": 1968, "rapid_b": 14400, "max_rpm": 12000, "spindle_ramp_sec": 2.0, "tool_change_sec": 3.0, "notes": "Large 50-taper HMC, 800mm pallet."},
+    {"name": "Makino F3", "machine_type": "mill", "axis_count": 3, "turret_count": 1, "has_sub_spindle": false, "rapid_x": 1968, "rapid_y": 1968, "rapid_z": 1968, "max_rpm": 14000, "spindle_ramp_sec": 2.0, "tool_change_sec": 3.0, "notes": "40-taper VMC, F-series general purpose."},
+    {"name": "Makino F5", "machine_type": "mill", "axis_count": 3, "turret_count": 1, "has_sub_spindle": false, "rapid_x": 1968, "rapid_y": 1968, "rapid_z": 1968, "max_rpm": 14000, "spindle_ramp_sec": 2.0, "tool_change_sec": 3.0, "notes": "40-taper VMC, larger F5 envelope."},
+    {"name": "Makino D200Z", "machine_type": "mill", "axis_count": 5, "turret_count": 1, "has_sub_spindle": false, "rapid_x": 2362, "rapid_y": 2362, "rapid_z": 2362, "rapid_a": 25000, "rapid_c": 50000, "max_rpm": 30000, "spindle_ramp_sec": 1.2, "tool_change_sec": 2.0, "notes": "High-precision 5-axis VMC, micro-mold/die work."},
+    {"name": "Makino D500", "machine_type": "mill", "axis_count": 5, "turret_count": 1, "has_sub_spindle": false, "rapid_x": 2362, "rapid_y": 2362, "rapid_z": 2362, "rapid_a": 25000, "rapid_c": 50000, "max_rpm": 20000, "spindle_ramp_sec": 1.5, "tool_change_sec": 2.5, "notes": "5-axis VMC, larger than D200Z."}
+  ]
+}

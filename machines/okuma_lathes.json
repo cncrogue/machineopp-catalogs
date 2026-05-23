@@ -1,0 +1,11 @@
+{
+  "catalog": "Okuma Lathes",
+  "manufacturer": "Okuma",
+  "machines": [
+    {"name": "LB3000 EX II", "machine_type": "lathe", "axis_count": 2, "turret_count": 1, "has_sub_spindle": false, "rapid_x": 1181, "rapid_y": 0, "rapid_z": 1181, "max_rpm": 4200, "spindle_ramp_sec": 1.8, "tool_change_sec": 2.5, "notes": "8-in chuck, Thermo-Friendly Concept. Workhorse production lathe."},
+    {"name": "LB4000 EX II", "machine_type": "lathe", "axis_count": 2, "turret_count": 1, "has_sub_spindle": false, "rapid_x": 1181, "rapid_y": 0, "rapid_z": 1181, "max_rpm": 3800, "spindle_ramp_sec": 2.0, "tool_change_sec": 2.5, "notes": "10-in chuck, larger spindle bore."},
+    {"name": "Genos L300-M", "machine_type": "lathe", "axis_count": 3, "turret_count": 1, "has_sub_spindle": false, "rapid_x": 1181, "rapid_y": 393, "rapid_z": 1181, "max_rpm": 5000, "spindle_ramp_sec": 2.0, "tool_change_sec": 2.5, "notes": "8-in chuck, milling option with Y-axis and driven tools."},
+    {"name": "Genos L400-M", "machine_type": "lathe", "axis_count": 3, "turret_count": 1, "has_sub_spindle": false, "rapid_x": 1181, "rapid_y": 393, "rapid_z": 1181, "max_rpm": 3800, "spindle_ramp_sec": 2.2, "tool_change_sec": 2.8, "notes": "10-in chuck Genos with milling option."},
+    {"name": "MULTUS U3000", "machine_type": "mill_turn", "axis_count": 5, "turret_count": 1, "has_sub_spindle": true, "rapid_x": 1378, "rapid_y": 393, "rapid_z": 1378, "rapid_b": 14400, "rapid_c": 14400, "max_rpm": 12000, "spindle_ramp_sec": 2.0, "tool_change_sec": 2.7, "notes": "Multitask, sub-spindle, milling B-axis. Done-in-one parts."}
+  ]
+}

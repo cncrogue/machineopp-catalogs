@@ -1,0 +1,13 @@
+{
+  "catalog": "Mazak Lathes",
+  "manufacturer": "Mazak",
+  "machines": [
+    {"name": "Quick Turn 100", "machine_type": "lathe", "axis_count": 2, "turret_count": 1, "has_sub_spindle": false, "rapid_x": 1181, "rapid_y": 0, "rapid_z": 1181, "max_rpm": 5000, "spindle_ramp_sec": 2.0, "tool_change_sec": 2.5, "notes": "Compact 6-in chuck production lathe."},
+    {"name": "QT-Compact 200", "machine_type": "lathe", "axis_count": 2, "turret_count": 1, "has_sub_spindle": false, "rapid_x": 1181, "rapid_y": 0, "rapid_z": 1181, "max_rpm": 5000, "spindle_ramp_sec": 2.0, "tool_change_sec": 2.5, "notes": "8-in chuck, compact footprint."},
+    {"name": "QT-Smart 250", "machine_type": "lathe", "axis_count": 3, "turret_count": 1, "has_sub_spindle": false, "rapid_x": 1181, "rapid_y": 393, "rapid_z": 1181, "max_rpm": 5000, "spindle_ramp_sec": 2.0, "tool_change_sec": 2.7, "notes": "10-in chuck, Y-axis live tooling. Mill-turn capable."},
+    {"name": "Quick Turn 300", "machine_type": "lathe", "axis_count": 2, "turret_count": 1, "has_sub_spindle": false, "rapid_x": 1181, "rapid_y": 0, "rapid_z": 1181, "max_rpm": 4000, "spindle_ramp_sec": 2.5, "tool_change_sec": 3.0, "notes": "12-in chuck, heavier production turning."},
+    {"name": "INTEGREX i-100", "machine_type": "mill_turn", "axis_count": 5, "turret_count": 1, "has_sub_spindle": true, "rapid_x": 1378, "rapid_y": 393, "rapid_z": 1378, "rapid_b": 14400, "rapid_c": 14400, "max_rpm": 12000, "spindle_ramp_sec": 2.0, "tool_change_sec": 2.5, "notes": "Multitask 5-axis, sub-spindle, milling spindle. 6-in chuck."},
+    {"name": "INTEGREX i-200", "machine_type": "mill_turn", "axis_count": 5, "turret_count": 1, "has_sub_spindle": true, "rapid_x": 1378, "rapid_y": 393, "rapid_z": 1378, "rapid_b": 14400, "rapid_c": 14400, "max_rpm": 12000, "spindle_ramp_sec": 2.2, "tool_change_sec": 2.7, "notes": "Multitask 5-axis, 8-in chuck. Full B-axis milling."},
+    {"name": "INTEGREX e-500H", "machine_type": "mill_turn", "axis_count": 5, "turret_count": 1, "has_sub_spindle": true, "rapid_x": 1378, "rapid_y": 590, "rapid_z": 1378, "rapid_b": 9000, "rapid_c": 14400, "max_rpm": 8000, "spindle_ramp_sec": 3.0, "tool_change_sec": 3.0, "notes": "Heavy-duty multitask, 18-in chuck, large parts."}
+  ]
+}

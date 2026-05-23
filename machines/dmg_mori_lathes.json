@@ -1,0 +1,12 @@
+{
+  "catalog": "DMG MORI Lathes",
+  "manufacturer": "DMG MORI",
+  "machines": [
+    {"name": "NLX 2000", "machine_type": "lathe", "axis_count": 2, "turret_count": 1, "has_sub_spindle": false, "rapid_x": 1181, "rapid_y": 0, "rapid_z": 1181, "max_rpm": 6000, "spindle_ramp_sec": 1.8, "tool_change_sec": 2.5, "notes": "Compact 6-in chuck production lathe."},
+    {"name": "NLX 2500", "machine_type": "lathe", "axis_count": 2, "turret_count": 1, "has_sub_spindle": false, "rapid_x": 1181, "rapid_y": 0, "rapid_z": 1181, "max_rpm": 5000, "spindle_ramp_sec": 2.0, "tool_change_sec": 2.5, "notes": "8-in chuck, fast turret indexing."},
+    {"name": "NLX 3000", "machine_type": "lathe", "axis_count": 2, "turret_count": 1, "has_sub_spindle": false, "rapid_x": 1181, "rapid_y": 0, "rapid_z": 1181, "max_rpm": 4000, "spindle_ramp_sec": 2.5, "tool_change_sec": 3.0, "notes": "12-in chuck, mid-range turning."},
+    {"name": "NLX 4000", "machine_type": "lathe", "axis_count": 2, "turret_count": 1, "has_sub_spindle": false, "rapid_x": 1181, "rapid_y": 0, "rapid_z": 1181, "max_rpm": 3000, "spindle_ramp_sec": 3.0, "tool_change_sec": 3.5, "notes": "15-in chuck, heavier-duty turning."},
+    {"name": "NTX 1000", "machine_type": "mill_turn", "axis_count": 5, "turret_count": 1, "has_sub_spindle": true, "rapid_x": 1378, "rapid_y": 393, "rapid_z": 1378, "rapid_b": 14400, "rapid_c": 14400, "max_rpm": 12000, "spindle_ramp_sec": 2.0, "tool_change_sec": 2.5, "notes": "Multitask, 6-in chuck, sub-spindle, milling B-axis."},
+    {"name": "NTX 2500", "machine_type": "mill_turn", "axis_count": 5, "turret_count": 1, "has_sub_spindle": true, "rapid_x": 1378, "rapid_y": 393, "rapid_z": 1378, "rapid_b": 14400, "rapid_c": 14400, "max_rpm": 10000, "spindle_ramp_sec": 2.2, "tool_change_sec": 2.7, "notes": "Multitask, 8-in chuck, sub-spindle, milling B-axis."}
+  ]
+}

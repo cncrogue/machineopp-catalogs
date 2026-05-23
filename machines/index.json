@@ -8,9 +8,79 @@
       "machine_count": 7
     },
     {
+      "name": "Haas Mills - Extras",
+      "description": "Haas UMC-1000/1500, DM-2 drill/mill, TM-1P/TM-2P toolroom, GR-510 gantry",
+      "file": "haas_mills_extras.json",
+      "version": 1,
+      "machine_count": 6
+    },
+    {
       "name": "Haas Lathes",
       "description": "Haas turning centers, ST-15 through ST-40",
       "file": "haas_lathes.json",
+      "version": 1,
+      "machine_count": 5
+    },
+    {
+      "name": "Mazak Mills",
+      "description": "Mazak VCN/VTC vertical mills, VARIAXIS 5-axis, HCN horizontal mills",
+      "file": "mazak_mills.json",
+      "version": 1,
+      "machine_count": 8
+    },
+    {
+      "name": "Mazak Lathes",
+      "description": "Mazak Quick Turn / QT-Smart production lathes, INTEGREX multitask",
+      "file": "mazak_lathes.json",
+      "version": 1,
+      "machine_count": 7
+    },
+    {
+      "name": "DMG MORI Mills",
+      "description": "DMG MORI NVX/CMX/DMU vertical + NHX horizontal mills",
+      "file": "dmg_mori_mills.json",
+      "version": 1,
+      "machine_count": 8
+    },
+    {
+      "name": "DMG MORI Lathes",
+      "description": "DMG MORI NLX production lathes, NTX multitask",
+      "file": "dmg_mori_lathes.json",
+      "version": 1,
+      "machine_count": 6
+    },
+    {
+      "name": "Makino Mills",
+      "description": "Makino A-series HMCs, F-series VMCs, D-series 5-axis",
+      "file": "makino_mills.json",
+      "version": 1,
+      "machine_count": 7
+    },
+    {
+      "name": "YCM Mills",
+      "description": "YCM NXV/NMV/NSV verticals, DCV drilling center, HMC-600 horizontal",
+      "file": "ycm_mills.json",
+      "version": 1,
+      "machine_count": 6
+    },
+    {
+      "name": "Brother Speedio",
+      "description": "Brother Speedio high-speed 30-taper mills (S/M/R/U series)",
+      "file": "brother_speedio.json",
+      "version": 1,
+      "machine_count": 5
+    },
+    {
+      "name": "Okuma Lathes",
+      "description": "Okuma LB/Genos production lathes + MULTUS multitask",
+      "file": "okuma_lathes.json",
+      "version": 1,
+      "machine_count": 5
+    },
+    {
+      "name": "Okuma Mills",
+      "description": "Okuma Genos/MB VMCs, MA-600HII HMC, MU-5000V 5-axis",
+      "file": "okuma_mills.json",
       "version": 1,
       "machine_count": 5
     },
@@ -20,6 +90,13 @@
       "file": "dn_solutions_lathes.json",
       "version": 1,
       "machine_count": 4
+    },
+    {
+      "name": "DN Solutions Mills",
+      "description": "DN Solutions DNM/DVF verticals, NHM/NHP horizontals, 5-axis variants",
+      "file": "dn_solutions_mills.json",
+      "version": 1,
+      "machine_count": 7
     }
   ]
 }
