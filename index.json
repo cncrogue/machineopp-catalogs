@@ -3,18 +3,26 @@
     {
       "name": "Essential End Mills",
       "category": "starter",
-      "description": "Common 2FL and 4FL carbide end mills, ball mills, chamfer mills with speeds for all material groups",
+      "description": "Carbide end mills in 2FL/3FL/4FL/5FL, ball mills, chamfer mills, corner-rounding, woodruff, dovetail, slot & shell mills with speeds for all material groups",
       "file": "starter_end_mills.json",
-      "version": 1,
-      "tool_count": 24
+      "version": 2,
+      "tool_count": 38
     },
     {
       "name": "Essential Drills & Taps",
       "category": "starter",
-      "description": "Standard carbide drills, HSS taps (UNC/UNF/Metric), reamers, and countersinks",
+      "description": "Carbide drills, spot/center/indexable drills, HSS taps (UNC/UNF/Metric), reamers, countersinks, boring head, and thread mills",
       "file": "starter_drills_taps.json",
+      "version": 2,
+      "tool_count": 39
+    },
+    {
+      "name": "Essential Turning",
+      "category": "starter",
+      "description": "Common turning inserts (CNMG/DNMG/VNMG/WNMG/TNMG + positive CCMT/DCMT/TCMT/VCGT), grooving, face grooving, parting, OD/ID threading, and a boring bar",
+      "file": "starter_turning.json",
       "version": 1,
-      "tool_count": 32
+      "tool_count": 15
     },
     {
       "name": "MA Ford 305 Series Micro Drills",
