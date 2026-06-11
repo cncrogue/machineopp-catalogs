@@ -5,7 +5,7 @@
       "category": "starter",
       "description": "Carbide end mills (2FL/3FL/4FL/5FL), a dedicated uncoated/ZrN high-helix aluminum line, ball/chamfer/corner-rounding/woodruff/dovetail/slot & shell mills, speeds for all material groups",
       "file": "starter_end_mills.json",
-      "version": 3,
+      "version": 4,
       "tool_count": 44
     },
     {
@@ -13,7 +13,7 @@
       "category": "starter",
       "description": "Carbide drills, spot/center/indexable drills, HSS taps (UNC/UNF/Metric), reamers, countersinks, boring head, and thread mills",
       "file": "starter_drills_taps.json",
-      "version": 2,
+      "version": 3,
       "tool_count": 39
     },
     {
@@ -21,7 +21,7 @@
       "category": "starter",
       "description": "Common turning inserts (CNMG/DNMG/VNMG/WNMG/TNMG + positive CCMT/DCMT/TCMT/VCGT), grooving, face grooving, parting, OD/ID threading, and a boring bar",
       "file": "starter_turning.json",
-      "version": 1,
+      "version": 2,
       "tool_count": 15
     },
     {
