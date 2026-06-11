@@ -3,10 +3,10 @@
     {
       "name": "Essential End Mills",
       "category": "starter",
-      "description": "Carbide end mills in 2FL/3FL/4FL/5FL, ball mills, chamfer mills, corner-rounding, woodruff, dovetail, slot & shell mills with speeds for all material groups",
+      "description": "Carbide end mills (2FL/3FL/4FL/5FL), a dedicated uncoated/ZrN high-helix aluminum line, ball/chamfer/corner-rounding/woodruff/dovetail/slot & shell mills, speeds for all material groups",
       "file": "starter_end_mills.json",
-      "version": 2,
-      "tool_count": 38
+      "version": 3,
+      "tool_count": 44
     },
     {
       "name": "Essential Drills & Taps",
