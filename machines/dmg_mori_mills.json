@@ -30,7 +30,8 @@
    "max_rpm": 20000,
    "spindle_ramp_sec": 2.0,
    "tool_change_sec": 2.0,
-   "notes": "4th-gen 40-taper HMC, 500mm pallet, speedMASTER 20k std, 60 m/min rapids, 1.95s tool change."
+   "accel_in_s2": 463,
+   "notes": "4th-gen 40-taper HMC, 500mm pallet, speedMASTER 20k std, 60 m/min rapids, 1.95s tool change. Acceleration 1.2 g (463 in/s^2), vendor-published."
   },
   {
    "name": "NVX 5060",
