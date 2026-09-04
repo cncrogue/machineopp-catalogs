@@ -149,8 +149,11 @@
    "rapid_b": 14400,
    "max_rpm": 12000,
    "spindle_ramp_sec": 2.5,
-   "tool_change_sec": 3.0,
-   "notes": "40-taper HMC, 400mm pallet, 60 m/min."
+   "tool_change_sec": 6.0,
+   "notes": "40-taper HMC, 400mm pallet, 60 m/min. tool_change/accel/clamp/g53 CALIBRATED 2026-09-04 against a shop-floor-timed production program (43:21 measured vs 43:12 modeled; per-tool anchor within 2%).",
+   "accel_in_s2": 300,
+   "clamp_sec": 4.0,
+   "g53_sec": 2.5
   },
   {
    "name": "NHX 6300",

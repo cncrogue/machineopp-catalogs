@@ -39,7 +39,7 @@
    "name": "DMG MORI Mills",
    "description": "DMG MORI NVX/CMX/DMU vertical + NHX horizontal mills",
    "file": "dmg_mori_mills.json",
-   "version": 4,
+   "version": 5,
    "machine_count": 11
   },
   {
