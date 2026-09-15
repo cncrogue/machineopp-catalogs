@@ -1,0 +1,25 @@
+{
+  "catalogs": [
+    {
+      "name": "Sandvik Turning Grades",
+      "description": "Sandvik turning insert grades: published SFM by ISO material (external/boring/grooving/threading). 26 verified, 13 provisional.",
+      "file": "sandvik_turning_grades.json",
+      "version": 1,
+      "grade_count": 41
+    },
+    {
+      "name": "Iscar Turning Grades",
+      "description": "Iscar turning insert grades: published SFM by ISO material (external/boring/grooving/threading). 53 verified, 3 provisional.",
+      "file": "iscar_turning_grades.json",
+      "version": 1,
+      "grade_count": 56
+    },
+    {
+      "name": "Mitsubishi Turning Grades",
+      "description": "Mitsubishi turning insert grades: published SFM by ISO material (external/boring/grooving/threading). 18 verified, 18 provisional.",
+      "file": "mitsubishi_turning_grades.json",
+      "version": 1,
+      "grade_count": 36
+    }
+  ]
+}
