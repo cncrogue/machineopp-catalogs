@@ -1,0 +1,18 @@
+{
+ "catalogs": [
+  {
+   "name": "Dormer Pramet Holemaking S&F",
+   "description": "Dormer Pramet holemaking speeds & feeds: published SFM + IPR by tool family, material and diameter (6229 rows).",
+   "file": "dormer_pramet.json",
+   "version": 1,
+   "series_count": 6229
+  },
+  {
+   "name": "OSG Holemaking S&F",
+   "description": "OSG holemaking speeds & feeds: published SFM + IPR by tool family, material and diameter (2029 rows).",
+   "file": "osg.json",
+   "version": 1,
+   "series_count": 2029
+  }
+ ]
+}
