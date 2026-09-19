@@ -25,28 +25,12 @@
       "tool_count": 15
     },
     {
-      "name": "MA Ford End Mills",
+      "name": "MA Ford Chamfer Mills",
       "category": "manufacturer",
-      "description": "M.A. Ford end mills — full 2024 Vol 105 library, part numbers + dimensions; published speeds & feeds on 3555 tools",
-      "file": "ma_ford_end_mills.json",
+      "description": "M.A. Ford chamfer mills — full 2024 Vol 105 library, part numbers + dimensions",
+      "file": "ma_ford_chamfer_mills.json",
       "version": 1,
-      "tool_count": 3881
-    },
-    {
-      "name": "MA Ford Drills",
-      "category": "manufacturer",
-      "description": "M.A. Ford drills — full 2024 Vol 105 library, part numbers + dimensions; published speeds & feeds on 967 tools",
-      "file": "ma_ford_drills.json",
-      "version": 1,
-      "tool_count": 4911
-    },
-    {
-      "name": "MA Ford Reamers",
-      "category": "manufacturer",
-      "description": "M.A. Ford reamers — full 2024 Vol 105 library, part numbers + dimensions",
-      "file": "ma_ford_reamers.json",
-      "version": 1,
-      "tool_count": 924
+      "tool_count": 41
     },
     {
       "name": "MA Ford Countersinks",
@@ -57,12 +41,652 @@
       "tool_count": 468
     },
     {
-      "name": "MA Ford Chamfer Mills",
+      "name": "MA Ford 200, 200Sets Drills",
       "category": "manufacturer",
-      "description": "M.A. Ford chamfer mills — full 2024 Vol 105 library, part numbers + dimensions",
-      "file": "ma_ford_chamfer_mills.json",
+      "description": "M.A. Ford 200, 200Sets series drills — part numbers + dimensions",
+      "file": "maford/ma_ford_200_200sets_drills.json",
       "version": 1,
-      "tool_count": 41
+      "tool_count": 382
+    },
+    {
+      "name": "MA Ford 200S Drills",
+      "category": "manufacturer",
+      "description": "M.A. Ford 200S series drills — part numbers + dimensions",
+      "file": "maford/ma_ford_200s_drills.json",
+      "version": 1,
+      "tool_count": 12
+    },
+    {
+      "name": "MA Ford 204 Drills",
+      "category": "manufacturer",
+      "description": "M.A. Ford 204 series drills — part numbers + dimensions",
+      "file": "maford/ma_ford_204_drills.json",
+      "version": 1,
+      "tool_count": 155
+    },
+    {
+      "name": "MA Ford 205 Drills",
+      "category": "manufacturer",
+      "description": "M.A. Ford 205 series drills — part numbers + dimensions",
+      "file": "maford/ma_ford_205_drills.json",
+      "version": 1,
+      "tool_count": 367
+    },
+    {
+      "name": "MA Ford 206 Drills",
+      "category": "manufacturer",
+      "description": "M.A. Ford 206 series drills — part numbers + dimensions",
+      "file": "maford/ma_ford_206_drills.json",
+      "version": 1,
+      "tool_count": 133
+    },
+    {
+      "name": "MA Ford 207 Drills",
+      "category": "manufacturer",
+      "description": "M.A. Ford 207 series drills — part numbers + dimensions",
+      "file": "maford/ma_ford_207_drills.json",
+      "version": 1,
+      "tool_count": 146
+    },
+    {
+      "name": "MA Ford 224 Drills",
+      "category": "manufacturer",
+      "description": "M.A. Ford 224 series drills — part numbers + dimensions",
+      "file": "maford/ma_ford_224_drills.json",
+      "version": 1,
+      "tool_count": 134
+    },
+    {
+      "name": "MA Ford 226 Drills",
+      "category": "manufacturer",
+      "description": "M.A. Ford 226 series drills — part numbers + dimensions",
+      "file": "maford/ma_ford_226_drills.json",
+      "version": 1,
+      "tool_count": 120
+    },
+    {
+      "name": "MA Ford 229 Drills",
+      "category": "manufacturer",
+      "description": "M.A. Ford 229 series drills — part numbers + dimensions",
+      "file": "maford/ma_ford_229_drills.json",
+      "version": 1,
+      "tool_count": 134
+    },
+    {
+      "name": "MA Ford 2XDCE Drills",
+      "category": "manufacturer",
+      "description": "M.A. Ford 2XDCE series drills — part numbers + dimensions",
+      "file": "maford/ma_ford_2xdce_drills.json",
+      "version": 1,
+      "tool_count": 32
+    },
+    {
+      "name": "MA Ford 2XDCL Drills",
+      "category": "manufacturer",
+      "description": "M.A. Ford 2XDCL series drills — part numbers + dimensions",
+      "file": "maford/ma_ford_2xdcl_drills.json",
+      "version": 1,
+      "tool_count": 126
+    },
+    {
+      "name": "MA Ford 2XDCR Drills",
+      "category": "manufacturer",
+      "description": "M.A. Ford 2XDCR series drills — part numbers + dimensions",
+      "file": "maford/ma_ford_2xdcr_drills.json",
+      "version": 1,
+      "tool_count": 163
+    },
+    {
+      "name": "MA Ford 2XDCS Drills",
+      "category": "manufacturer",
+      "description": "M.A. Ford 2XDCS series drills — part numbers + dimensions",
+      "file": "maford/ma_ford_2xdcs_drills.json",
+      "version": 1,
+      "tool_count": 147
+    },
+    {
+      "name": "MA Ford 2XDSR Drills",
+      "category": "manufacturer",
+      "description": "M.A. Ford 2XDSR series drills — part numbers + dimensions",
+      "file": "maford/ma_ford_2xdsr_drills.json",
+      "version": 1,
+      "tool_count": 172
+    },
+    {
+      "name": "MA Ford 2XDSS Drills",
+      "category": "manufacturer",
+      "description": "M.A. Ford 2XDSS series drills — part numbers + dimensions",
+      "file": "maford/ma_ford_2xdss_drills.json",
+      "version": 1,
+      "tool_count": 165
+    },
+    {
+      "name": "MA Ford 300 Drills",
+      "category": "manufacturer",
+      "description": "M.A. Ford 300 series drills — part numbers + dimensions",
+      "file": "maford/ma_ford_300_drills.json",
+      "version": 1,
+      "tool_count": 154
+    },
+    {
+      "name": "MA Ford 302 Drills",
+      "category": "manufacturer",
+      "description": "M.A. Ford 302 series drills — part numbers + dimensions",
+      "file": "maford/ma_ford_302_drills.json",
+      "version": 1,
+      "tool_count": 188
+    },
+    {
+      "name": "MA Ford 305 Drills",
+      "category": "manufacturer",
+      "description": "M.A. Ford 305 series drills — part numbers + dimensions",
+      "file": "maford/ma_ford_305_drills.json",
+      "version": 1,
+      "tool_count": 330
+    },
+    {
+      "name": "MA Ford 306 Drills",
+      "category": "manufacturer",
+      "description": "M.A. Ford 306 series drills — part numbers + dimensions",
+      "file": "maford/ma_ford_306_drills.json",
+      "version": 1,
+      "tool_count": 104
+    },
+    {
+      "name": "MA Ford 402 Drills",
+      "category": "manufacturer",
+      "description": "M.A. Ford 402 series drills — part numbers + dimensions",
+      "file": "maford/ma_ford_402_drills.json",
+      "version": 1,
+      "tool_count": 18
+    },
+    {
+      "name": "MA Ford 403 Drills",
+      "category": "manufacturer",
+      "description": "M.A. Ford 403 series drills — part numbers + dimensions",
+      "file": "maford/ma_ford_403_drills.json",
+      "version": 1,
+      "tool_count": 10
+    },
+    {
+      "name": "MA Ford 404 Drills",
+      "category": "manufacturer",
+      "description": "M.A. Ford 404 series drills — part numbers + dimensions",
+      "file": "maford/ma_ford_404_drills.json",
+      "version": 1,
+      "tool_count": 10
+    },
+    {
+      "name": "MA Ford CDACR Drills",
+      "category": "manufacturer",
+      "description": "M.A. Ford CDACR series drills — part numbers + dimensions; published speeds & feeds on 135 tools",
+      "file": "maford/ma_ford_cdacr_drills.json",
+      "version": 1,
+      "tool_count": 135
+    },
+    {
+      "name": "MA Ford CXDCE Drills",
+      "category": "manufacturer",
+      "description": "M.A. Ford CXDCE series drills — part numbers + dimensions; published speeds & feeds on 59 tools",
+      "file": "maford/ma_ford_cxdce_drills.json",
+      "version": 1,
+      "tool_count": 59
+    },
+    {
+      "name": "MA Ford CXDCL Drills",
+      "category": "manufacturer",
+      "description": "M.A. Ford CXDCL series drills — part numbers + dimensions; published speeds & feeds on 151 tools",
+      "file": "maford/ma_ford_cxdcl_drills.json",
+      "version": 1,
+      "tool_count": 151
+    },
+    {
+      "name": "MA Ford CXDCR Drills",
+      "category": "manufacturer",
+      "description": "M.A. Ford CXDCR series drills — part numbers + dimensions; published speeds & feeds on 162 tools",
+      "file": "maford/ma_ford_cxdcr_drills.json",
+      "version": 1,
+      "tool_count": 162
+    },
+    {
+      "name": "MA Ford CXDCS Drills",
+      "category": "manufacturer",
+      "description": "M.A. Ford CXDCS series drills — part numbers + dimensions; published speeds & feeds on 151 tools",
+      "file": "maford/ma_ford_cxdcs_drills.json",
+      "version": 1,
+      "tool_count": 151
+    },
+    {
+      "name": "MA Ford CXDSR Drills",
+      "category": "manufacturer",
+      "description": "M.A. Ford CXDSR series drills — part numbers + dimensions; published speeds & feeds on 147 tools",
+      "file": "maford/ma_ford_cxdsr_drills.json",
+      "version": 1,
+      "tool_count": 147
+    },
+    {
+      "name": "MA Ford CXDSS Drills",
+      "category": "manufacturer",
+      "description": "M.A. Ford CXDSS series drills — part numbers + dimensions; published speeds & feeds on 162 tools",
+      "file": "maford/ma_ford_cxdss_drills.json",
+      "version": 1,
+      "tool_count": 162
+    },
+    {
+      "name": "MA Ford HPDSR, HPDCR Drills",
+      "category": "manufacturer",
+      "description": "M.A. Ford HPDSR, HPDCR series drills — part numbers + dimensions",
+      "file": "maford/ma_ford_hpdsr_hpdcr_drills.json",
+      "version": 1,
+      "tool_count": 286
+    },
+    {
+      "name": "MA Ford HPDSS, HPDCS Drills",
+      "category": "manufacturer",
+      "description": "M.A. Ford HPDSS, HPDCS series drills — part numbers + dimensions",
+      "file": "maford/ma_ford_hpdss_hpdcs_drills.json",
+      "version": 1,
+      "tool_count": 286
+    },
+    {
+      "name": "MA Ford MPDCS Drills",
+      "category": "manufacturer",
+      "description": "M.A. Ford MPDCS series drills — part numbers + dimensions",
+      "file": "maford/ma_ford_mpdcs_drills.json",
+      "version": 1,
+      "tool_count": 40
+    },
+    {
+      "name": "MA Ford MXDCL Drills",
+      "category": "manufacturer",
+      "description": "M.A. Ford MXDCL series drills — part numbers + dimensions",
+      "file": "maford/ma_ford_mxdcl_drills.json",
+      "version": 1,
+      "tool_count": 40
+    },
+    {
+      "name": "MA Ford MXDCR Drills",
+      "category": "manufacturer",
+      "description": "M.A. Ford MXDCR series drills — part numbers + dimensions",
+      "file": "maford/ma_ford_mxdcr_drills.json",
+      "version": 1,
+      "tool_count": 40
+    },
+    {
+      "name": "MA Ford MXDSR Drills",
+      "category": "manufacturer",
+      "description": "M.A. Ford MXDSR series drills — part numbers + dimensions",
+      "file": "maford/ma_ford_mxdsr_drills.json",
+      "version": 1,
+      "tool_count": 50
+    },
+    {
+      "name": "MA Ford 111 End Mills",
+      "category": "manufacturer",
+      "description": "M.A. Ford 111 series end mills — part numbers + dimensions; published speeds & feeds on 213 tools",
+      "file": "maford/ma_ford_111_end_mills.json",
+      "version": 1,
+      "tool_count": 213
+    },
+    {
+      "name": "MA Ford 114 End Mills",
+      "category": "manufacturer",
+      "description": "M.A. Ford 114 series end mills — part numbers + dimensions; published speeds & feeds on 52 tools",
+      "file": "maford/ma_ford_114_end_mills.json",
+      "version": 1,
+      "tool_count": 52
+    },
+    {
+      "name": "MA Ford 116 End Mills",
+      "category": "manufacturer",
+      "description": "M.A. Ford 116 series end mills — part numbers + dimensions; published speeds & feeds on 90 tools",
+      "file": "maford/ma_ford_116_end_mills.json",
+      "version": 1,
+      "tool_count": 90
+    },
+    {
+      "name": "MA Ford 121 End Mills",
+      "category": "manufacturer",
+      "description": "M.A. Ford 121 series end mills — part numbers + dimensions; published speeds & feeds on 233 tools",
+      "file": "maford/ma_ford_121_end_mills.json",
+      "version": 1,
+      "tool_count": 233
+    },
+    {
+      "name": "MA Ford 122 End Mills",
+      "category": "manufacturer",
+      "description": "M.A. Ford 122 series end mills — part numbers + dimensions; published speeds & feeds on 23 tools",
+      "file": "maford/ma_ford_122_end_mills.json",
+      "version": 1,
+      "tool_count": 23
+    },
+    {
+      "name": "MA Ford 132 End Mills",
+      "category": "manufacturer",
+      "description": "M.A. Ford 132 series end mills — part numbers + dimensions; published speeds & feeds on 18 tools",
+      "file": "maford/ma_ford_132_end_mills.json",
+      "version": 1,
+      "tool_count": 18
+    },
+    {
+      "name": "MA Ford 134 End Mills",
+      "category": "manufacturer",
+      "description": "M.A. Ford 134 series end mills — part numbers + dimensions; published speeds & feeds on 14 tools",
+      "file": "maford/ma_ford_134_end_mills.json",
+      "version": 1,
+      "tool_count": 14
+    },
+    {
+      "name": "MA Ford 135 End Mills",
+      "category": "manufacturer",
+      "description": "M.A. Ford 135 series end mills — part numbers + dimensions; published speeds & feeds on 45 tools",
+      "file": "maford/ma_ford_135_end_mills.json",
+      "version": 1,
+      "tool_count": 45
+    },
+    {
+      "name": "MA Ford 135B End Mills",
+      "category": "manufacturer",
+      "description": "M.A. Ford 135B series end mills — part numbers + dimensions; published speeds & feeds on 21 tools",
+      "file": "maford/ma_ford_135b_end_mills.json",
+      "version": 1,
+      "tool_count": 21
+    },
+    {
+      "name": "MA Ford 135N End Mills",
+      "category": "manufacturer",
+      "description": "M.A. Ford 135N series end mills — part numbers + dimensions; published speeds & feeds on 149 tools",
+      "file": "maford/ma_ford_135n_end_mills.json",
+      "version": 1,
+      "tool_count": 149
+    },
+    {
+      "name": "MA Ford 136 End Mills",
+      "category": "manufacturer",
+      "description": "M.A. Ford 136 series end mills — part numbers + dimensions; published speeds & feeds on 69 tools",
+      "file": "maford/ma_ford_136_end_mills.json",
+      "version": 1,
+      "tool_count": 69
+    },
+    {
+      "name": "MA Ford 138 End Mills",
+      "category": "manufacturer",
+      "description": "M.A. Ford 138 series end mills — part numbers + dimensions; published speeds & feeds on 204 tools",
+      "file": "maford/ma_ford_138_end_mills.json",
+      "version": 1,
+      "tool_count": 204
+    },
+    {
+      "name": "MA Ford 138B End Mills",
+      "category": "manufacturer",
+      "description": "M.A. Ford 138B series end mills — part numbers + dimensions; published speeds & feeds on 29 tools",
+      "file": "maford/ma_ford_138b_end_mills.json",
+      "version": 1,
+      "tool_count": 29
+    },
+    {
+      "name": "MA Ford 138CE End Mills",
+      "category": "manufacturer",
+      "description": "M.A. Ford 138CE series end mills — part numbers + dimensions; published speeds & feeds on 50 tools",
+      "file": "maford/ma_ford_138ce_end_mills.json",
+      "version": 1,
+      "tool_count": 50
+    },
+    {
+      "name": "MA Ford 138N End Mills",
+      "category": "manufacturer",
+      "description": "M.A. Ford 138N series end mills — part numbers + dimensions; published speeds & feeds on 38 tools",
+      "file": "maford/ma_ford_138n_end_mills.json",
+      "version": 1,
+      "tool_count": 38
+    },
+    {
+      "name": "MA Ford 140 End Mills",
+      "category": "manufacturer",
+      "description": "M.A. Ford 140 series end mills — part numbers + dimensions; published speeds & feeds on 85 tools",
+      "file": "maford/ma_ford_140_end_mills.json",
+      "version": 1,
+      "tool_count": 85
+    },
+    {
+      "name": "MA Ford 150 End Mills",
+      "category": "manufacturer",
+      "description": "M.A. Ford 150 series end mills — part numbers + dimensions; published speeds & feeds on 119 tools",
+      "file": "maford/ma_ford_150_end_mills.json",
+      "version": 1,
+      "tool_count": 119
+    },
+    {
+      "name": "MA Ford 156 End Mills",
+      "category": "manufacturer",
+      "description": "M.A. Ford 156 series end mills — part numbers + dimensions",
+      "file": "maford/ma_ford_156_end_mills.json",
+      "version": 1,
+      "tool_count": 124
+    },
+    {
+      "name": "MA Ford 157 End Mills",
+      "category": "manufacturer",
+      "description": "M.A. Ford 157 series end mills — part numbers + dimensions; published speeds & feeds on 94 tools",
+      "file": "maford/ma_ford_157_end_mills.json",
+      "version": 1,
+      "tool_count": 94
+    },
+    {
+      "name": "MA Ford 163 End Mills",
+      "category": "manufacturer",
+      "description": "M.A. Ford 163 series end mills — part numbers + dimensions; published speeds & feeds on 136 tools",
+      "file": "maford/ma_ford_163_end_mills.json",
+      "version": 1,
+      "tool_count": 136
+    },
+    {
+      "name": "MA Ford 164 End Mills",
+      "category": "manufacturer",
+      "description": "M.A. Ford 164 series end mills — part numbers + dimensions; published speeds & feeds on 152 tools",
+      "file": "maford/ma_ford_164_end_mills.json",
+      "version": 1,
+      "tool_count": 152
+    },
+    {
+      "name": "MA Ford 165 End Mills",
+      "category": "manufacturer",
+      "description": "M.A. Ford 165 series end mills — part numbers + dimensions; published speeds & feeds on 80 tools",
+      "file": "maford/ma_ford_165_end_mills.json",
+      "version": 1,
+      "tool_count": 80
+    },
+    {
+      "name": "MA Ford 169 End Mills",
+      "category": "manufacturer",
+      "description": "M.A. Ford 169 series end mills — part numbers + dimensions; published speeds & feeds on 80 tools",
+      "file": "maford/ma_ford_169_end_mills.json",
+      "version": 1,
+      "tool_count": 80
+    },
+    {
+      "name": "MA Ford 177 End Mills",
+      "category": "manufacturer",
+      "description": "M.A. Ford 177 series end mills — part numbers + dimensions; published speeds & feeds on 222 tools",
+      "file": "maford/ma_ford_177_end_mills.json",
+      "version": 1,
+      "tool_count": 222
+    },
+    {
+      "name": "MA Ford 177L End Mills",
+      "category": "manufacturer",
+      "description": "M.A. Ford 177L series end mills — part numbers + dimensions; published speeds & feeds on 23 tools",
+      "file": "maford/ma_ford_177l_end_mills.json",
+      "version": 1,
+      "tool_count": 23
+    },
+    {
+      "name": "MA Ford 177S End Mills",
+      "category": "manufacturer",
+      "description": "M.A. Ford 177S series end mills — part numbers + dimensions; published speeds & feeds on 36 tools",
+      "file": "maford/ma_ford_177s_end_mills.json",
+      "version": 1,
+      "tool_count": 36
+    },
+    {
+      "name": "MA Ford 178 End Mills",
+      "category": "manufacturer",
+      "description": "M.A. Ford 178 series end mills — part numbers + dimensions; published speeds & feeds on 161 tools",
+      "file": "maford/ma_ford_178_end_mills.json",
+      "version": 1,
+      "tool_count": 161
+    },
+    {
+      "name": "MA Ford 178N End Mills",
+      "category": "manufacturer",
+      "description": "M.A. Ford 178N series end mills — part numbers + dimensions; published speeds & feeds on 39 tools",
+      "file": "maford/ma_ford_178n_end_mills.json",
+      "version": 1,
+      "tool_count": 39
+    },
+    {
+      "name": "MA Ford 179 End Mills",
+      "category": "manufacturer",
+      "description": "M.A. Ford 179 series end mills — part numbers + dimensions; published speeds & feeds on 46 tools",
+      "file": "maford/ma_ford_179_end_mills.json",
+      "version": 1,
+      "tool_count": 46
+    },
+    {
+      "name": "MA Ford 180 End Mills",
+      "category": "manufacturer",
+      "description": "M.A. Ford 180 series end mills — part numbers + dimensions; published speeds & feeds on 93 tools",
+      "file": "maford/ma_ford_180_end_mills.json",
+      "version": 1,
+      "tool_count": 93
+    },
+    {
+      "name": "MA Ford 180CB End Mills",
+      "category": "manufacturer",
+      "description": "M.A. Ford 180CB series end mills — part numbers + dimensions; published speeds & feeds on 24 tools",
+      "file": "maford/ma_ford_180cb_end_mills.json",
+      "version": 1,
+      "tool_count": 24
+    },
+    {
+      "name": "MA Ford 180N End Mills",
+      "category": "manufacturer",
+      "description": "M.A. Ford 180N series end mills — part numbers + dimensions; published speeds & feeds on 16 tools",
+      "file": "maford/ma_ford_180n_end_mills.json",
+      "version": 1,
+      "tool_count": 16
+    },
+    {
+      "name": "MA Ford 192 End Mills",
+      "category": "manufacturer",
+      "description": "M.A. Ford 192 series end mills — part numbers + dimensions; published speeds & feeds on 20 tools",
+      "file": "maford/ma_ford_192_end_mills.json",
+      "version": 1,
+      "tool_count": 20
+    },
+    {
+      "name": "MA Ford 250 End Mills",
+      "category": "manufacturer",
+      "description": "M.A. Ford 250 series end mills — part numbers + dimensions",
+      "file": "maford/ma_ford_250_end_mills.json",
+      "version": 1,
+      "tool_count": 19
+    },
+    {
+      "name": "MA Ford 277 End Mills",
+      "category": "manufacturer",
+      "description": "M.A. Ford 277 series end mills — part numbers + dimensions; published speeds & feeds on 261 tools",
+      "file": "maford/ma_ford_277_end_mills.json",
+      "version": 1,
+      "tool_count": 261
+    },
+    {
+      "name": "MA Ford 277CB End Mills",
+      "category": "manufacturer",
+      "description": "M.A. Ford 277CB series end mills — part numbers + dimensions; published speeds & feeds on 92 tools",
+      "file": "maford/ma_ford_277cb_end_mills.json",
+      "version": 1,
+      "tool_count": 92
+    },
+    {
+      "name": "MA Ford 278 End Mills",
+      "category": "manufacturer",
+      "description": "M.A. Ford 278 series end mills — part numbers + dimensions; published speeds & feeds on 504 tools",
+      "file": "maford/ma_ford_278_end_mills.json",
+      "version": 1,
+      "tool_count": 504
+    },
+    {
+      "name": "MA Ford 279 End Mills",
+      "category": "manufacturer",
+      "description": "M.A. Ford 279 series end mills — part numbers + dimensions; published speeds & feeds on 24 tools",
+      "file": "maford/ma_ford_279_end_mills.json",
+      "version": 1,
+      "tool_count": 24
+    },
+    {
+      "name": "MA Ford 380CB End Mills",
+      "category": "manufacturer",
+      "description": "M.A. Ford 380CB series end mills — part numbers + dimensions",
+      "file": "maford/ma_ford_380cb_end_mills.json",
+      "version": 1,
+      "tool_count": 20
+    },
+    {
+      "name": "MA Ford MFPB End Mills",
+      "category": "manufacturer",
+      "description": "M.A. Ford MFPB series end mills — part numbers + dimensions",
+      "file": "maford/ma_ford_mfpb_end_mills.json",
+      "version": 1,
+      "tool_count": 24
+    },
+    {
+      "name": "MA Ford XFO End Mills",
+      "category": "manufacturer",
+      "description": "M.A. Ford XFO series end mills — part numbers + dimensions",
+      "file": "maford/ma_ford_xfo_end_mills.json",
+      "version": 1,
+      "tool_count": 6
+    },
+    {
+      "name": "MA Ford XFO-AL End Mills",
+      "category": "manufacturer",
+      "description": "M.A. Ford XFO-AL series end mills — part numbers + dimensions",
+      "file": "maford/ma_ford_xfo_al_end_mills.json",
+      "version": 1,
+      "tool_count": 4
+    },
+    {
+      "name": "MA Ford XV5CB End Mills",
+      "category": "manufacturer",
+      "description": "M.A. Ford XV5CB series end mills — part numbers + dimensions",
+      "file": "maford/ma_ford_xv5cb_end_mills.json",
+      "version": 1,
+      "tool_count": 16
+    },
+    {
+      "name": "MA Ford XV7 End Mills",
+      "category": "manufacturer",
+      "description": "M.A. Ford XV7 series end mills — part numbers + dimensions",
+      "file": "maford/ma_ford_xv7_end_mills.json",
+      "version": 1,
+      "tool_count": 87
+    },
+    {
+      "name": "MA Ford XV7CB End Mills",
+      "category": "manufacturer",
+      "description": "M.A. Ford XV7CB series end mills — part numbers + dimensions",
+      "file": "maford/ma_ford_xv7cb_end_mills.json",
+      "version": 1,
+      "tool_count": 26
+    },
+    {
+      "name": "MA Ford Reamers",
+      "category": "manufacturer",
+      "description": "M.A. Ford reamers — full 2024 Vol 105 library, part numbers + dimensions",
+      "file": "ma_ford_reamers.json",
+      "version": 1,
+      "tool_count": 924
     }
   ]
 }

@@ -34,6 +34,14 @@ FAMILY = {
 }
 FAMILY_DEFAULT_FLUTES = {'drill': 2}  # fallback only when nof blank
 
+# Families split into ONE catalog PER SERIES (founder: import just the series you
+# run). The rest stay a single family catalog. Per-series files live under maford/.
+SPLIT_FAMILIES = {'end_mill', 'drill'}
+SPLIT_SUBDIR = 'maford'
+
+def sanitize(series):
+    return re.sub(r'[^a-z0-9]+', '_', (series or '').lower()).strip('_') or 'x'
+
 FRAC = re.compile(r'^\s*(\d+)?\s*[- ]?\s*(\d+)\s*/\s*(\d+)\s*$')
 
 def to_decimal(v):
@@ -240,11 +248,13 @@ with open(TOOLS_CSV, encoding='utf-8') as fh:
         tool = {k: v for k, v in tool.items() if v is not None and v != []}
         if 'speeds' not in tool:
             tool['speeds'] = []
-        catalogs[fam].append(tool)
+        # Split families get one catalog per series; others one per family.
+        key = (fam, r['series'].strip()) if fam in SPLIT_FAMILIES else (fam, None)
+        catalogs[key].append(tool)
         counts[fam] += 1
 
-# ---- uniqueness guard on tool_name within each catalog ----
-for fam, tools in catalogs.items():
+# ---- uniqueness guard on tool_name within each catalog file ----
+for key, tools in catalogs.items():
     seen = {}
     for t in tools:
         nm = t['tool_name']
@@ -252,29 +262,40 @@ for fam, tools in catalogs.items():
             t['tool_name'] = '{0} ({1})'.format(nm, t.get('part_number', 'v'))
         seen[t['tool_name']] = True
 
-# ---- emit ----
+# ---- emit: one JSON per (family, series) bucket ----
+os.makedirs(os.path.join(OUTDIR, SPLIT_SUBDIR), exist_ok=True)
 index_entries = []
-for fam, (tool_type, label, stem) in FAMILY.items():
-    tools = catalogs.get(fam, [])
-    if not tools:
-        continue
+for (fam, series), tools in sorted(catalogs.items(),
+                                   key=lambda kv: (kv[0][0], kv[0][1] or '')):
+    tool_type, label, stem = FAMILY[fam]
     with_sf = sum(1 for t in tools if t.get('speeds'))
-    detail = {'catalog': 'MA Ford ' + label, 'manufacturer': 'MA Ford', 'tools': tools}
-    path = os.path.join(OUTDIR, stem + '.json')
+    if series is None:  # single family catalog (reamers/countersinks/chamfer)
+        name = 'MA Ford ' + label
+        rel = stem + '.json'
+        desc = (f'M.A. Ford {label.lower()} — full 2024 Vol 105 library, '
+                f'part numbers + dimensions')
+    else:  # per-series catalog (end mills / drills)
+        singular = label[:-1]  # "End Mills" -> "End Mill"
+        name = f'MA Ford {series} {label}'
+        rel = f'{SPLIT_SUBDIR}/ma_ford_{sanitize(series)}_{stem.replace("ma_ford_", "")}.json'
+        desc = (f'M.A. Ford {series} series {singular.lower()}s — part numbers + '
+                f'dimensions')
+    if with_sf:
+        desc += f'; published speeds & feeds on {with_sf} tools'
+    detail = {'catalog': name, 'manufacturer': 'MA Ford', 'tools': tools}
+    path = os.path.join(OUTDIR, rel)
     with open(path, 'w', encoding='utf-8') as fh:
         json.dump(detail, fh, separators=(',', ':'), ensure_ascii=False)
-    sz = os.path.getsize(path)
-    print(f'{stem}.json: {len(tools)} tools, {with_sf} with S&F, {sz/1024:.0f} KB')
     index_entries.append({
-        'name': 'MA Ford ' + label,
+        'name': name,
         'category': 'manufacturer',
-        'description': f'M.A. Ford {label.lower()} — full 2024 Vol 105 library, '
-                       f'part numbers + dimensions'
-                       + (f'; published speeds & feeds on {with_sf} tools' if with_sf else ''),
-        'file': stem + '.json',
+        'description': desc,
+        'file': rel.replace('\\', '/'),
         'version': 1,
         'tool_count': len(tools),
     })
+print(f'emitted {len(index_entries)} catalog files '
+      f'({sum(1 for e in index_entries if "/" in e["file"])} per-series under {SPLIT_SUBDIR}/)')
 
 if feed_unit_warnings:
     print('\nFEED-UNIT WARNINGS ({0}):'.format(len(feed_unit_warnings)))
