@@ -13,6 +13,13 @@
    "file": "osg.json",
    "version": 1,
    "series_count": 2029
+  },
+  {
+   "name": "M.A. Ford Milling S&F",
+   "description": "M.A. Ford end-mill speeds & feeds: published SFM + per-tooth feed (IPT) by material and diameter (6444 rows). Auto-applies to solid carbide end mills.",
+   "file": "ma_ford_milling.json",
+   "version": 1,
+   "series_count": 6444
   }
  ]
 }
