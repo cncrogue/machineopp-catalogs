@@ -1,0 +1,11 @@
+{
+  "catalog": "Okuma Mills",
+  "manufacturer": "Okuma",
+  "machines": [
+    {"name": "Genos M460-VE", "machine_type": "mill", "axis_count": 3, "turret_count": 1, "has_sub_spindle": false, "rapid_x": 1417, "rapid_y": 1417, "rapid_z": 1417, "max_rpm": 12000, "spindle_ramp_sec": 2.0, "tool_change_sec": 2.5, "notes": "40-taper VMC, Genos cost-effective line with Thermo-Friendly Concept."},
+    {"name": "Genos M560-V", "machine_type": "mill", "axis_count": 3, "turret_count": 1, "has_sub_spindle": false, "rapid_x": 1417, "rapid_y": 1417, "rapid_z": 1417, "max_rpm": 12000, "spindle_ramp_sec": 2.0, "tool_change_sec": 2.5, "notes": "Larger Genos VMC, 560mm Y-travel."},
+    {"name": "MB-56V", "machine_type": "mill", "axis_count": 3, "turret_count": 1, "has_sub_spindle": false, "rapid_x": 1968, "rapid_y": 1968, "rapid_z": 1968, "max_rpm": 12000, "spindle_ramp_sec": 1.8, "tool_change_sec": 2.5, "notes": "40-taper VMC, 50 m/min rapids. Production workhorse."},
+    {"name": "MA-600HII", "machine_type": "mill", "axis_count": 4, "turret_count": 1, "has_sub_spindle": false, "rapid_x": 1968, "rapid_y": 1968, "rapid_z": 1968, "rapid_b": 14400, "max_rpm": 10000, "spindle_ramp_sec": 2.5, "tool_change_sec": 2.7, "notes": "50-taper HMC, 630mm pallet."},
+    {"name": "MU-5000V", "machine_type": "mill", "axis_count": 5, "turret_count": 1, "has_sub_spindle": false, "rapid_x": 1968, "rapid_y": 1968, "rapid_z": 1968, "rapid_b": 14400, "rapid_c": 14400, "max_rpm": 12000, "spindle_ramp_sec": 2.0, "tool_change_sec": 2.7, "notes": "5-axis trunnion VMC, 500mm table with Thermo-Friendly Concept."}
+  ]
+}

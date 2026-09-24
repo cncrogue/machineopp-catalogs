@@ -1,0 +1,12 @@
+{
+  "catalog": "Haas Mills - Extras",
+  "manufacturer": "Haas Automation",
+  "machines": [
+    {"name": "Haas UMC-1000", "machine_type": "mill", "axis_count": 5, "turret_count": 1, "has_sub_spindle": false, "rapid_x": 1000, "rapid_y": 1000, "rapid_z": 1000, "rapid_a": 12000, "rapid_c": 12000, "max_rpm": 12000, "spindle_ramp_sec": 2.5, "tool_change_sec": 3.0, "notes": "5-axis trunnion, larger work zone than UMC-750."},
+    {"name": "Haas UMC-1500", "machine_type": "mill", "axis_count": 5, "turret_count": 1, "has_sub_spindle": false, "rapid_x": 1000, "rapid_y": 1000, "rapid_z": 1000, "rapid_a": 12000, "rapid_c": 12000, "max_rpm": 12000, "spindle_ramp_sec": 2.5, "tool_change_sec": 3.5, "notes": "Large 5-axis trunnion VMC."},
+    {"name": "Haas DM-2", "machine_type": "mill", "axis_count": 3, "turret_count": 1, "has_sub_spindle": false, "rapid_x": 1400, "rapid_y": 1400, "rapid_z": 1400, "max_rpm": 15000, "spindle_ramp_sec": 1.8, "tool_change_sec": 1.8, "notes": "Drill/mill, high-speed BT30, small-part production."},
+    {"name": "Haas TM-1P", "machine_type": "mill", "axis_count": 3, "turret_count": 1, "has_sub_spindle": false, "rapid_x": 200, "rapid_y": 200, "rapid_z": 200, "max_rpm": 6000, "spindle_ramp_sec": 3.5, "tool_change_sec": 4.5, "notes": "Toolroom mill, slow rapids, manual-feel cuts."},
+    {"name": "Haas TM-2P", "machine_type": "mill", "axis_count": 3, "turret_count": 1, "has_sub_spindle": false, "rapid_x": 200, "rapid_y": 200, "rapid_z": 200, "max_rpm": 6000, "spindle_ramp_sec": 3.5, "tool_change_sec": 4.5, "notes": "Larger toolroom mill."},
+    {"name": "Haas GR-510", "machine_type": "mill", "axis_count": 3, "turret_count": 1, "has_sub_spindle": false, "rapid_x": 700, "rapid_y": 700, "rapid_z": 700, "max_rpm": 7500, "spindle_ramp_sec": 3.0, "tool_change_sec": 5.0, "notes": "Gantry router, large flat-stock work."}
+  ]
+}
