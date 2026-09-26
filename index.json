@@ -15,7 +15,7 @@
    "manufacturer": "Starter Kit",
    "description": "Carbide drills (fractional + number/letter tap drills), spot/center/indexable drills, HSS taps (UNC/UNF/Metric incl. machine-screw sizes) each with a matching tap drill, reamers, countersinks, boring head, and thread mills",
    "file": "starter_drills_taps.json",
-   "version": 6,
+   "version": 7,
    "tool_count": 56
   },
   {
@@ -24,7 +24,7 @@
    "manufacturer": "Starter Kit",
    "description": "Common turning inserts (CNMG/DNMG/VNMG/WNMG/TNMG + positive CCMT/DCMT/TCMT/VCGT), grooving, face grooving, parting, OD/ID threading, and a boring bar",
    "file": "starter_turning.json",
-   "version": 3,
+   "version": 4,
    "tool_count": 17
   }
  ]
